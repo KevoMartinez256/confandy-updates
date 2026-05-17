@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v0.1.0/confandy_0.1.0_setup.exe",
+  "release_notes": [
+    "Primera versión instalable de Confandy.",
+    "Sistema base de inventario.",
+    "Soporte inicial para actualizaciones."
+  ],
+  "published_at": "2026-05-17T20:00:00Z",
+  "installer_name": "confandy_0.1.0_setup.exe"
+}
