@@ -1,10 +1,10 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v0.1.1/confandy_0.1.1_setup.exe",
   "release_notes": [
     "Correcciones menores.",
     "Mejoras de estabilidad.",
-    "Prueba de Actualizaciones."
+    "Arreglo de Error de Base de Datos de Ventas."
   ],
   "published_at": "2026-05-17T20:00:00Z",
   "installer_name": "confandy_0.1.1_setup.exe"
