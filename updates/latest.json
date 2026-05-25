@@ -1,14 +1,10 @@
 {
-  "version": "0.1.4",
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v0.1.4/confandy_0.1.4_setup.exe",
+  "version": "0.1.5",
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v0.1.5/confandy_0.1.5_setup.exe",
   "release_notes": [
     "Se mejoró la apertura inicial de los formularios de captura con precarga en segundo plano para reducir la espera al abrir",
-    "Se corrigió la carga de catálogos grandes en Productos, Ventas, Cotizaciones, Apartados, Transferencias, Compras, Defectos y Vales, paginando resultados de Supabase para no quedarse solo con los primeros 1000 registros.",
-    "Se mejoró Productos con tabla más limpia, orden por nombre, paginación de 100 filas, importación CSV más robusta con reanudación/reintento y existencias separadas para Tienda / Almacén principal.",
-    "Se mejoró Inventario con buscador, paginación de 100 elementos y visualización correcta de existencias en 0 para tienda, almacén y subinventarios.",
-    "Se activaron calendarios en español en toda la app con localización `es_MX`.",
-    "Se agregó captura global de errores para reducir cierres silenciosos y facilitar el rastreo de fallos inesperados."
+    "Arreglo Carga"
   ],
   "published_at": "2026-05-25T20:00:00Z",
-  "installer_name": "confandy_0.1.4_setup.exe"
+  "installer_name": "confandy_0.1.5_setup.exe"
 }
