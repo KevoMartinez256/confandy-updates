@@ -1,10 +1,15 @@
 {
   "version": "0.1.5",
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v0.1.5/confandy_0.1.5_setup.exe",
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v0.1.6/confandy_0.1.6_setup.exe",
   "release_notes": [
-    "Se mejoró la apertura inicial de los formularios de captura con precarga en segundo plano para reducir la espera al abrir",
-    "Arreglo Carga"
+    "Iniciar Sesión por Nombre o Correo.",
+    "Fusionar Defectos a Devoluciones.",
+    "Borradores.",
+    "Títulos fijos en productos.",
+    "Aviso de duplicado de productos.",
+    "Mejora al buscar proveedores, marcas, tipo.",
+    "Mejora en formato de titulo en reportes."
   ],
-  "published_at": "2026-05-25T20:00:00Z",
-  "installer_name": "confandy_0.1.5_setup.exe"
+  "published_at": "2026-05-29T04:50:00Z",
+  "installer_name": "confandy_0.1.6_setup.exe"
 }
