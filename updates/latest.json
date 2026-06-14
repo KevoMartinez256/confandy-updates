@@ -1,15 +1,12 @@
 {
-  "version": "0.1.6",
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v0.1.6/confandy_0.1.6_setup.exe",
+  "version": "0.1.7",
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v0.1.6/confandy_0.1.7_setup.exe",
   "release_notes": [
-    "Iniciar Sesión por Nombre o Correo.",
-    "Fusionar Defectos a Devoluciones.",
-    "Borradores.",
-    "Títulos fijos en productos.",
-    "Aviso de duplicado de productos.",
-    "Mejora al buscar proveedores, marcas, tipo.",
-    "Mejora en formato de titulo en reportes."
+    "Modo Offline para Productos y Ventas",
+    "Deteccion de Conexion",
+    "Cola para trabajar sin conexion.",
+    "Sincronizacion para vuelta de conexion."
   ],
-  "published_at": "2026-05-29T04:50:00Z",
-  "installer_name": "confandy_0.1.6_setup.exe"
+  "published_at": "2026-06-13T04:50:00Z",
+  "installer_name": "confandy_0.1.7_setup.exe"
 }
