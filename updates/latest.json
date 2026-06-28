@@ -1,12 +1,10 @@
 {
-  "version": "0.1.7",
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v0.1.7/confandy_0.1.7_setup.exe",
+  "version": "0.1.8",
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v0.1.8/confandy_0.1.8_setup.exe",
   "release_notes": [
-    "Modo Offline para Productos y Ventas",
-    "Deteccion de Conexion",
-    "Cola para trabajar sin conexion.",
-    "Sincronizacion para vuelta de conexion."
+    "Modo Offline mejorado.",
+    "Bug fixes."
   ],
   "published_at": "2026-06-13T04:50:00Z",
-  "installer_name": "confandy_0.1.7_setup.exe"
+  "installer_name": "confandy_0.1.8_setup.exe"
 }
