@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.0.0/confandy_1.0.0_setup.exe",
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v.1.0.0/confandy_1.0.0_setup.exe",
   "release_notes": [
     "Inicio de la Version v.1.0.0.",
     "Gracias por confiar en ETHOX Security."
   ],
-  "published_at": "2026-06-13T04:50:00Z",
+  "published_at": "2026-07-11T04:50:00Z",
   "installer_name": "confandy_1.0.0_setup.exe"
 }
