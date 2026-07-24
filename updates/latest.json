@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.0.4/confandy_1.0.4_setup.exe",
+  "version": "1.0.5",
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.0.5/confandy_1.0.5_setup.exe",
   "release_notes": [
-    "Optimización",
-    "Arreglo de Reportes",
-    "Logs."
+    "Menu Inicio",
+    "Arreglo de Updates",
+    "Arreglo de Interfaz."
   ],
-  "published_at": "2026-07-23T04:50:00Z",
-  "installer_name": "confandy_1.0.4_setup.exe"
+  "published_at": "2026-07-24T04:50:00Z",
+  "installer_name": "confandy_1.0.5_setup.exe"
 }
