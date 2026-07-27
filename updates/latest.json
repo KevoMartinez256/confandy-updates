@@ -1,10 +1,10 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.0.6/confandy_1.0.6_setup.exe",
+  "version": "1.0.7",
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.0.7/confandy_1.0.7_setup.exe",
   "release_notes": [
-    "Arreglo de Reportes.",
-    "Función de Crédito."
+    "Bugs Offline solucionados.",
+    "Bugs de Crédito solucionados."
   ],
-  "published_at": "2026-07-24T04:50:00Z",
-  "installer_name": "confandy_1.0.6_setup.exe"
+  "published_at": "2026-07-27T04:50:00Z",
+  "installer_name": "confandy_1.0.7_setup.exe"
 }
