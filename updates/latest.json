@@ -1,12 +1,10 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.1.0/confandy_1.1.0_setup.exe",
+  "version": "1.1.1",
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.1.1/confandy_1.1.1_setup.exe",
   "release_notes": [
-    "Reporte Fin del Dia",
-    "Arreglo Formato Reportes",
-    "ML: Fase 1",
-    "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.1.0/confandy_1.1.0_setup.exe"
+    "Arreglo Reporte Fin del Dia",
+    "ML: Fase 2"
   ],
   "published_at": "2026-08-07T04:50:00Z",
-  "installer_name": "confandy_1.1.0_setup.exe"
+  "installer_name": "confandy_1.1.1_setup.exe"
 }
