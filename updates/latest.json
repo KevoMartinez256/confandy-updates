@@ -1,10 +1,10 @@
 {
-  "version": "1.1.5",
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.1.5/confandy_1.1.5_setup.exe",
+  "version": "1.1.6",
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.1.6/confandy_1.1.6_setup.exe",
   "release_notes": [
-    "Mercado Libre Sincronización Automátoca",
-    "Reporte cobro de credito"
+    "Mercado Libre Bugs Arreglados",
+    "Reporte Inventario Separado"
   ],
-  "published_at": "2026-08-11T04:50:00Z",
-  "installer_name": "confandy_1.1.5_setup.exe"
+  "published_at": "2026-08-12T04:50:00Z",
+  "installer_name": "confandy_1.1.6_setup.exe"
 }
