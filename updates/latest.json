@@ -1,10 +1,11 @@
 {
-  "version": "1.1.9",
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.1.9/confandy_1.1.9_setup.exe",
+  "version": "1.2.0",
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.0/confandy_1.2.0_setup.exe",
   "release_notes": [
-    "Boton para Ticket en Créditos",
-    "Fix ML Errores"
+    "Optimmimzación Mercado Libre",
+    "Auditoria Mercado Libre",
+    "Fix Mercado Libre Errores"
   ],
-  "published_at": "2026-08-18T04:50:00Z",
-  "installer_name": "confandy_1.1.9_setup.exe"
+  "published_at": "2026-08-26T04:50:00Z",
+  "installer_name": "confandy_1.2.0_setup.exe"
 }
