@@ -1,11 +1,10 @@
 {
-  "version": "1.2.1",
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.1/confandy_1.2.1_setup.exe",
+  "version": "1.2.2",
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.2/confandy_1.2.2_setup.exe",
   "release_notes": [
     "Optimmimzación Mercado Libre",
-    "Optimización Barras de Búsqueda",
-    "Diagnostico para Admins"
+    "Fix Bugs ML"
   ],
-  "published_at": "2026-08-28T04:50:00Z",
-  "installer_name": "confandy_1.2.1_setup.exe"
+  "published_at": "2026-09-02T04:50:00Z",
+  "installer_name": "confandy_1.2.2_setup.exe"
 }
