@@ -1,10 +1,41 @@
 {
-  "version": "1.2.4",
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.4/confandy_1.2.4_setup.exe",
-  "release_notes": [
-    "Arreglo Agregar Producto",
-    "Arreglo Editar Productos"
-  ],
-  "published_at": "2026-09-09T04:50:00Z",
-  "installer_name": "confandy_1.2.4_setup.exe"
+    "version":  "1.2.5",
+    "build_number":  43,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.5/confandy_1.2.5_setup.exe",
+    "release_notes":  [
+                          "Actualizaciones por plataforma: Windows y Android.",
+                          "Pantalla de actualizaciones compacta y adaptable.",
+                          "Correcciones de filtros por fecha en movimientos."
+                      ],
+    "published_at":  "2026-09-20T21:19:37Z",
+    "installer_name":  "confandy_1.2.5_setup.exe",
+    "sha256":  "fffbd695cf72ca89992af7cfc63c26e5f9bbe44aaf8da5381d770eb52a82b23e",
+    "platforms":  {
+                      "windows":  {
+                                      "version":  "1.2.5",
+                                      "build_number":  43,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.5/confandy_1.2.5_setup.exe",
+                                      "release_notes":  [
+                                                            "Actualizaciones por plataforma: Windows y Android.",
+                                                            "Pantalla de actualizaciones compacta y adaptable.",
+                                                            "Correcciones de filtros por fecha en movimientos."
+                                                        ],
+                                      "published_at":  "2026-09-20T21:19:37Z",
+                                      "installer_name":  "confandy_1.2.5_setup.exe",
+                                      "sha256":  "fffbd695cf72ca89992af7cfc63c26e5f9bbe44aaf8da5381d770eb52a82b23e"
+                                  },
+                      "android":  {
+                                      "version":  "1.2.5",
+                                      "build_number":  43,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.5/confandy_android_1.2.5.apk",
+                                      "release_notes":  [
+                                                            "Actualizaciones por plataforma: Windows y Android.",
+                                                            "Pantalla de actualizaciones compacta y adaptable.",
+                                                            "Correcciones de filtros por fecha en movimientos."
+                                                        ],
+                                      "published_at":  "2026-09-20T21:19:38Z",
+                                      "installer_name":  "confandy_android_1.2.5.apk",
+                                      "sha256":  "941bedad9cf20adc9996975afcfc1f05aea5a8ee8fd4c96a172756bb09e2aeb6"
+                                  }
+                  }
 }
