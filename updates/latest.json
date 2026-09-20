@@ -1,41 +1,38 @@
 {
-    "version":  "1.2.5",
-    "build_number":  44,
-    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.5/confandy_1.2.5_setup.exe",
+    "version":  "1.2.6",
+    "build_number":  45,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.6/confandy_1.2.6_setup.exe",
     "release_notes":  [
-                          "Los compradores de Mercado Libre ya no se crean como clientes.",
-                          "Catalogo y selectores sin compradores automaticos, incluso en cache.",
-                          "Se conserva la informacion del comprador en sus apartados."
+                          "Version para probar el flujo de actualizacion en Windows y Android.",
+                          "Conserva las correcciones de clientes de Mercado Libre y filtros por fecha."
                       ],
-    "published_at":  "2026-09-20T21:31:05Z",
-    "installer_name":  "confandy_1.2.5_setup.exe",
-    "sha256":  "9cde14bad12338257570dfcd8abad8e3195143790f1c1f153c5e79ed1d37bf1f",
+    "published_at":  "2026-09-20T21:44:23Z",
+    "installer_name":  "confandy_1.2.6_setup.exe",
+    "sha256":  "ebbdf86c77749e26756b67bcb61a50e52b3c1acaf8cbab13d31b3e1e5207a868",
     "platforms":  {
                       "windows":  {
-                                      "version":  "1.2.5",
-                                      "build_number":  44,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.5/confandy_1.2.5_setup.exe",
+                                      "version":  "1.2.6",
+                                      "build_number":  45,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.6/confandy_1.2.6_setup.exe",
                                       "release_notes":  [
-                                                            "Los compradores de Mercado Libre ya no se crean como clientes.",
-                                                            "Catalogo y selectores sin compradores automaticos, incluso en cache.",
-                                                            "Se conserva la informacion del comprador en sus apartados."
+                                                            "Version para probar el flujo de actualizacion en Windows y Android.",
+                                                            "Conserva las correcciones de clientes de Mercado Libre y filtros por fecha."
                                                         ],
-                                      "published_at":  "2026-09-20T21:31:05Z",
-                                      "installer_name":  "confandy_1.2.5_setup.exe",
-                                      "sha256":  "9cde14bad12338257570dfcd8abad8e3195143790f1c1f153c5e79ed1d37bf1f"
+                                      "published_at":  "2026-09-20T21:44:23Z",
+                                      "installer_name":  "confandy_1.2.6_setup.exe",
+                                      "sha256":  "ebbdf86c77749e26756b67bcb61a50e52b3c1acaf8cbab13d31b3e1e5207a868"
                                   },
                       "android":  {
-                                      "version":  "1.2.5",
-                                      "build_number":  44,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.5/confandy_android_1.2.5.apk",
+                                      "version":  "1.2.6",
+                                      "build_number":  45,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.6/confandy_android_1.2.6.apk",
                                       "release_notes":  [
-                                                            "Los compradores de Mercado Libre ya no se crean como clientes.",
-                                                            "Catalogo y selectores sin compradores automaticos, incluso en cache.",
-                                                            "Se conserva la informacion del comprador en sus apartados."
+                                                            "Version para probar el flujo de actualizacion en Windows y Android.",
+                                                            "Conserva las correcciones de clientes de Mercado Libre y filtros por fecha."
                                                         ],
-                                      "published_at":  "2026-09-20T21:31:05Z",
-                                      "installer_name":  "confandy_android_1.2.5.apk",
-                                      "sha256":  "308aa5492efd4ec3a2dd272f006ec163ef80f71d298c44e222d58966ade0ea4e"
+                                      "published_at":  "2026-09-20T21:44:49Z",
+                                      "installer_name":  "confandy_android_1.2.6.apk",
+                                      "sha256":  "9f3a8364a6e7d57639a42a2cdfa3b3f241256b6ccd439a861520905f62f2b4e1"
                                   }
                   }
 }
