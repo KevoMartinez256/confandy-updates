@@ -1,38 +1,53 @@
 {
-    "version":  "1.2.6",
-    "build_number":  45,
-    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.6/confandy_1.2.6_setup.exe",
+    "version":  "1.2.7",
+    "build_number":  48,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.7/confandy_1.2.7_setup.exe",
     "release_notes":  [
-                          "Version para probar el flujo de actualizacion en Windows y Android.",
-                          "Conserva las correcciones de clientes de Mercado Libre y filtros por fecha."
+                          "Escaneo de códigos de barras y QR al capturar productos en Android.",
+                          "Permisos individuales aplicados en inventario, catálogos y operaciones.",
+                          "Guardar notas y tickets como PDF o imágenes en la galería de Android.",
+                          "Corrección de textos con acentos y ñ en ventas.",
+                          "Garantía del ticket de 80 mm: 30 días con la tienda.",
+                          "Campos Elaboró y Vendedor adaptados al ancho del celular en apartados.",
+                          "Indicador de carga y bloqueo de clics repetidos al abrir formularios."
                       ],
-    "published_at":  "2026-09-20T21:44:23Z",
-    "installer_name":  "confandy_1.2.6_setup.exe",
-    "sha256":  "ebbdf86c77749e26756b67bcb61a50e52b3c1acaf8cbab13d31b3e1e5207a868",
+    "published_at":  "2026-09-20T22:50:03Z",
+    "installer_name":  "confandy_1.2.7_setup.exe",
+    "sha256":  "36605a0ea1414ad0d283714a45deb89233038d9759b682247175d990a85b43eb",
     "platforms":  {
                       "windows":  {
-                                      "version":  "1.2.6",
-                                      "build_number":  45,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.6/confandy_1.2.6_setup.exe",
+                                      "version":  "1.2.7",
+                                      "build_number":  48,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.7/confandy_1.2.7_setup.exe",
                                       "release_notes":  [
-                                                            "Version para probar el flujo de actualizacion en Windows y Android.",
-                                                            "Conserva las correcciones de clientes de Mercado Libre y filtros por fecha."
+                                                            "Escaneo de códigos de barras y QR al capturar productos en Android.",
+                                                            "Permisos individuales aplicados en inventario, catálogos y operaciones.",
+                                                            "Guardar notas y tickets como PDF o imágenes en la galería de Android.",
+                                                            "Corrección de textos con acentos y ñ en ventas.",
+                                                            "Garantía del ticket de 80 mm: 30 días con la tienda.",
+                                                            "Campos Elaboró y Vendedor adaptados al ancho del celular en apartados.",
+                                                            "Indicador de carga y bloqueo de clics repetidos al abrir formularios."
                                                         ],
-                                      "published_at":  "2026-09-20T21:44:23Z",
-                                      "installer_name":  "confandy_1.2.6_setup.exe",
-                                      "sha256":  "ebbdf86c77749e26756b67bcb61a50e52b3c1acaf8cbab13d31b3e1e5207a868"
+                                      "published_at":  "2026-09-20T22:50:03Z",
+                                      "installer_name":  "confandy_1.2.7_setup.exe",
+                                      "sha256":  "36605a0ea1414ad0d283714a45deb89233038d9759b682247175d990a85b43eb"
                                   },
                       "android":  {
-                                      "version":  "1.2.6",
-                                      "build_number":  45,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.6/confandy_android_1.2.6.apk",
+                                      "version":  "1.2.7",
+                                      "build_number":  48,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.7/confandy_android_1.2.7.apk",
                                       "release_notes":  [
-                                                            "Version para probar el flujo de actualizacion en Windows y Android.",
-                                                            "Conserva las correcciones de clientes de Mercado Libre y filtros por fecha."
+                                                            "Escaneo de códigos de barras y QR al capturar productos en Android.",
+                                                            "Permisos individuales aplicados en inventario, catálogos y operaciones.",
+                                                            "Guardar notas y tickets como PDF o imágenes en la galería de Android.",
+                                                            "Corrección de textos con acentos y ñ en ventas.",
+                                                            "Garantía del ticket de 80 mm: 30 días con la tienda.",
+                                                            "Campos Elaboró y Vendedor adaptados al ancho del celular en apartados.",
+                                                            "Indicador de carga y bloqueo de clics repetidos al abrir formularios."
                                                         ],
-                                      "published_at":  "2026-09-20T21:44:49Z",
-                                      "installer_name":  "confandy_android_1.2.6.apk",
-                                      "sha256":  "9f3a8364a6e7d57639a42a2cdfa3b3f241256b6ccd439a861520905f62f2b4e1"
+                                      "published_at":  "2026-09-20T22:50:23Z",
+                                      "installer_name":  "confandy_android_1.2.7.apk",
+                                      "sha256":  "6928b6cade7e822366be82d1c2c3ef105fdb4f14855fb99c371361cd884d3c89"
                                   }
                   }
 }
