@@ -1,41 +1,41 @@
 {
     "version":  "1.2.5",
-    "build_number":  43,
+    "build_number":  44,
     "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.5/confandy_1.2.5_setup.exe",
     "release_notes":  [
-                          "Actualizaciones por plataforma: Windows y Android.",
-                          "Pantalla de actualizaciones compacta y adaptable.",
-                          "Correcciones de filtros por fecha en movimientos."
+                          "Los compradores de Mercado Libre ya no se crean como clientes.",
+                          "Catalogo y selectores sin compradores automaticos, incluso en cache.",
+                          "Se conserva la informacion del comprador en sus apartados."
                       ],
-    "published_at":  "2026-09-20T21:19:37Z",
+    "published_at":  "2026-09-20T21:31:05Z",
     "installer_name":  "confandy_1.2.5_setup.exe",
-    "sha256":  "fffbd695cf72ca89992af7cfc63c26e5f9bbe44aaf8da5381d770eb52a82b23e",
+    "sha256":  "9cde14bad12338257570dfcd8abad8e3195143790f1c1f153c5e79ed1d37bf1f",
     "platforms":  {
                       "windows":  {
                                       "version":  "1.2.5",
-                                      "build_number":  43,
+                                      "build_number":  44,
                                       "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.5/confandy_1.2.5_setup.exe",
                                       "release_notes":  [
-                                                            "Actualizaciones por plataforma: Windows y Android.",
-                                                            "Pantalla de actualizaciones compacta y adaptable.",
-                                                            "Correcciones de filtros por fecha en movimientos."
+                                                            "Los compradores de Mercado Libre ya no se crean como clientes.",
+                                                            "Catalogo y selectores sin compradores automaticos, incluso en cache.",
+                                                            "Se conserva la informacion del comprador en sus apartados."
                                                         ],
-                                      "published_at":  "2026-09-20T21:19:37Z",
+                                      "published_at":  "2026-09-20T21:31:05Z",
                                       "installer_name":  "confandy_1.2.5_setup.exe",
-                                      "sha256":  "fffbd695cf72ca89992af7cfc63c26e5f9bbe44aaf8da5381d770eb52a82b23e"
+                                      "sha256":  "9cde14bad12338257570dfcd8abad8e3195143790f1c1f153c5e79ed1d37bf1f"
                                   },
                       "android":  {
                                       "version":  "1.2.5",
-                                      "build_number":  43,
+                                      "build_number":  44,
                                       "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.5/confandy_android_1.2.5.apk",
                                       "release_notes":  [
-                                                            "Actualizaciones por plataforma: Windows y Android.",
-                                                            "Pantalla de actualizaciones compacta y adaptable.",
-                                                            "Correcciones de filtros por fecha en movimientos."
+                                                            "Los compradores de Mercado Libre ya no se crean como clientes.",
+                                                            "Catalogo y selectores sin compradores automaticos, incluso en cache.",
+                                                            "Se conserva la informacion del comprador en sus apartados."
                                                         ],
-                                      "published_at":  "2026-09-20T21:19:38Z",
+                                      "published_at":  "2026-09-20T21:31:05Z",
                                       "installer_name":  "confandy_android_1.2.5.apk",
-                                      "sha256":  "941bedad9cf20adc9996975afcfc1f05aea5a8ee8fd4c96a172756bb09e2aeb6"
+                                      "sha256":  "308aa5492efd4ec3a2dd272f006ec163ef80f71d298c44e222d58966ade0ea4e"
                                   }
                   }
 }
