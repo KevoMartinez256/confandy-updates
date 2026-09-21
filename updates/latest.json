@@ -1,53 +1,59 @@
 {
-    "version":  "1.2.7",
-    "build_number":  48,
-    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.7/confandy_1.2.7_setup.exe",
+    "version":  "1.2.8",
+    "build_number":  51,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.8/confandy_1.2.8_setup.exe",
     "release_notes":  [
-                          "Escaneo de códigos de barras y QR al capturar productos en Android.",
-                          "Permisos individuales aplicados en inventario, catálogos y operaciones.",
-                          "Guardar notas y tickets como PDF o imágenes en la galería de Android.",
-                          "Corrección de textos con acentos y ñ en ventas.",
-                          "Garantía del ticket de 80 mm: 30 días con la tienda.",
-                          "Campos Elaboró y Vendedor adaptados al ancho del celular en apartados.",
-                          "Indicador de carga y bloqueo de clics repetidos al abrir formularios."
+                          "Imágenes de notas y tickets con fondo blanco.",
+                          "Guardado en el álbum Confandy de la galería.",
+                          "Confirmación de guardado visible sobre la nota y opción Ver imagen.",
+                          "Productos e Inventario: 20, 50 o 100 por página.",
+                          "Escaneo en buscadores de productos de los distintos formularios.",
+                          "Busqueda de reportes y apertura inmediata de notificaciones sin ventanas duplicadas.",
+                          "Comprobacion de conexion mas ligera.",
+                          "Escaneo continuo: quitar ultima unidad o agregar otra con acciones separadas.",
+                          "Espera limitada al buscar codigos no encontrados."
                       ],
-    "published_at":  "2026-09-20T22:50:03Z",
-    "installer_name":  "confandy_1.2.7_setup.exe",
-    "sha256":  "36605a0ea1414ad0d283714a45deb89233038d9759b682247175d990a85b43eb",
+    "published_at":  "2026-09-20T23:53:33Z",
+    "installer_name":  "confandy_1.2.8_setup.exe",
+    "sha256":  "8baa95e36f339d9653ed1786cf30eace2c7028015951e5a23907fbe36949d86b",
     "platforms":  {
                       "windows":  {
-                                      "version":  "1.2.7",
-                                      "build_number":  48,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.7/confandy_1.2.7_setup.exe",
+                                      "version":  "1.2.8",
+                                      "build_number":  51,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.8/confandy_1.2.8_setup.exe",
                                       "release_notes":  [
-                                                            "Escaneo de códigos de barras y QR al capturar productos en Android.",
-                                                            "Permisos individuales aplicados en inventario, catálogos y operaciones.",
-                                                            "Guardar notas y tickets como PDF o imágenes en la galería de Android.",
-                                                            "Corrección de textos con acentos y ñ en ventas.",
-                                                            "Garantía del ticket de 80 mm: 30 días con la tienda.",
-                                                            "Campos Elaboró y Vendedor adaptados al ancho del celular en apartados.",
-                                                            "Indicador de carga y bloqueo de clics repetidos al abrir formularios."
+                                                            "Imágenes de notas y tickets con fondo blanco.",
+                                                            "Guardado en el álbum Confandy de la galería.",
+                                                            "Confirmación de guardado visible sobre la nota y opción Ver imagen.",
+                                                            "Productos e Inventario: 20, 50 o 100 por página.",
+                                                            "Escaneo en buscadores de productos de los distintos formularios.",
+                                                            "Busqueda de reportes y apertura inmediata de notificaciones sin ventanas duplicadas.",
+                                                            "Comprobacion de conexion mas ligera.",
+                                                            "Escaneo continuo: quitar ultima unidad o agregar otra con acciones separadas.",
+                                                            "Espera limitada al buscar codigos no encontrados."
                                                         ],
-                                      "published_at":  "2026-09-20T22:50:03Z",
-                                      "installer_name":  "confandy_1.2.7_setup.exe",
-                                      "sha256":  "36605a0ea1414ad0d283714a45deb89233038d9759b682247175d990a85b43eb"
+                                      "published_at":  "2026-09-20T23:53:33Z",
+                                      "installer_name":  "confandy_1.2.8_setup.exe",
+                                      "sha256":  "8baa95e36f339d9653ed1786cf30eace2c7028015951e5a23907fbe36949d86b"
                                   },
                       "android":  {
-                                      "version":  "1.2.7",
-                                      "build_number":  48,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.7/confandy_android_1.2.7.apk",
+                                      "version":  "1.2.8",
+                                      "build_number":  51,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.8/confandy_android_1.2.8.apk",
                                       "release_notes":  [
-                                                            "Escaneo de códigos de barras y QR al capturar productos en Android.",
-                                                            "Permisos individuales aplicados en inventario, catálogos y operaciones.",
-                                                            "Guardar notas y tickets como PDF o imágenes en la galería de Android.",
-                                                            "Corrección de textos con acentos y ñ en ventas.",
-                                                            "Garantía del ticket de 80 mm: 30 días con la tienda.",
-                                                            "Campos Elaboró y Vendedor adaptados al ancho del celular en apartados.",
-                                                            "Indicador de carga y bloqueo de clics repetidos al abrir formularios."
+                                                            "Imágenes de notas y tickets con fondo blanco.",
+                                                            "Guardado en el álbum Confandy de la galería.",
+                                                            "Confirmación de guardado visible sobre la nota y opción Ver imagen.",
+                                                            "Productos e Inventario: 20, 50 o 100 por página.",
+                                                            "Escaneo en buscadores de productos de los distintos formularios.",
+                                                            "Busqueda de reportes y apertura inmediata de notificaciones sin ventanas duplicadas.",
+                                                            "Comprobacion de conexion mas ligera.",
+                                                            "Escaneo continuo: quitar ultima unidad o agregar otra con acciones separadas.",
+                                                            "Espera limitada al buscar codigos no encontrados."
                                                         ],
-                                      "published_at":  "2026-09-20T22:50:23Z",
-                                      "installer_name":  "confandy_android_1.2.7.apk",
-                                      "sha256":  "6928b6cade7e822366be82d1c2c3ef105fdb4f14855fb99c371361cd884d3c89"
+                                      "published_at":  "2026-09-20T23:54:04Z",
+                                      "installer_name":  "confandy_android_1.2.8.apk",
+                                      "sha256":  "7cd44ce47679b107253ed84eb4213c6006d1ad580fdc6b6626eae95d7e432543"
                                   }
                   }
 }
