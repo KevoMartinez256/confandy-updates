@@ -1,6 +1,6 @@
 {
     "version":  "1.2.8",
-    "build_number":  51,
+    "build_number":  52,
     "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.8/confandy_1.2.8_setup.exe",
     "release_notes":  [
                           "Imágenes de notas y tickets con fondo blanco.",
@@ -11,15 +11,18 @@
                           "Busqueda de reportes y apertura inmediata de notificaciones sin ventanas duplicadas.",
                           "Comprobacion de conexion mas ligera.",
                           "Escaneo continuo: quitar ultima unidad o agregar otra con acciones separadas.",
-                          "Espera limitada al buscar codigos no encontrados."
+                          "Espera limitada al buscar codigos no encontrados.",
+                          "Catálogos con caché local y actualización manual, sin recargas automáticas repetitivas.",
+                          "Vales ya no recarga el catálogo en cada comprobación de conexión.",
+                          "Solicitudes simultáneas del mismo catálogo se comparten para evitar duplicados."
                       ],
-    "published_at":  "2026-09-20T23:53:33Z",
+    "published_at":  "2026-09-21T01:09:54Z",
     "installer_name":  "confandy_1.2.8_setup.exe",
-    "sha256":  "8baa95e36f339d9653ed1786cf30eace2c7028015951e5a23907fbe36949d86b",
+    "sha256":  "53fc36beb35204fafac07f5ac47da9900a6d140b4efe945c3c675e5572a32277",
     "platforms":  {
                       "windows":  {
                                       "version":  "1.2.8",
-                                      "build_number":  51,
+                                      "build_number":  52,
                                       "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.8/confandy_1.2.8_setup.exe",
                                       "release_notes":  [
                                                             "Imágenes de notas y tickets con fondo blanco.",
@@ -30,15 +33,18 @@
                                                             "Busqueda de reportes y apertura inmediata de notificaciones sin ventanas duplicadas.",
                                                             "Comprobacion de conexion mas ligera.",
                                                             "Escaneo continuo: quitar ultima unidad o agregar otra con acciones separadas.",
-                                                            "Espera limitada al buscar codigos no encontrados."
+                                                            "Espera limitada al buscar codigos no encontrados.",
+                                                            "Catálogos con caché local y actualización manual, sin recargas automáticas repetitivas.",
+                                                            "Vales ya no recarga el catálogo en cada comprobación de conexión.",
+                                                            "Solicitudes simultáneas del mismo catálogo se comparten para evitar duplicados."
                                                         ],
-                                      "published_at":  "2026-09-20T23:53:33Z",
+                                      "published_at":  "2026-09-21T01:09:54Z",
                                       "installer_name":  "confandy_1.2.8_setup.exe",
-                                      "sha256":  "8baa95e36f339d9653ed1786cf30eace2c7028015951e5a23907fbe36949d86b"
+                                      "sha256":  "53fc36beb35204fafac07f5ac47da9900a6d140b4efe945c3c675e5572a32277"
                                   },
                       "android":  {
                                       "version":  "1.2.8",
-                                      "build_number":  51,
+                                      "build_number":  52,
                                       "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.8/confandy_android_1.2.8.apk",
                                       "release_notes":  [
                                                             "Imágenes de notas y tickets con fondo blanco.",
@@ -49,11 +55,14 @@
                                                             "Busqueda de reportes y apertura inmediata de notificaciones sin ventanas duplicadas.",
                                                             "Comprobacion de conexion mas ligera.",
                                                             "Escaneo continuo: quitar ultima unidad o agregar otra con acciones separadas.",
-                                                            "Espera limitada al buscar codigos no encontrados."
+                                                            "Espera limitada al buscar codigos no encontrados.",
+                                                            "Catálogos con caché local y actualización manual, sin recargas automáticas repetitivas.",
+                                                            "Vales ya no recarga el catálogo en cada comprobación de conexión.",
+                                                            "Solicitudes simultáneas del mismo catálogo se comparten para evitar duplicados."
                                                         ],
-                                      "published_at":  "2026-09-20T23:54:04Z",
+                                      "published_at":  "2026-09-21T01:10:29Z",
                                       "installer_name":  "confandy_android_1.2.8.apk",
-                                      "sha256":  "7cd44ce47679b107253ed84eb4213c6006d1ad580fdc6b6626eae95d7e432543"
+                                      "sha256":  "55a7038bf3d4d664e94fc3ffa3517f8fd09b11027510820dc6a8bd96e6616d59"
                                   }
                   }
 }
