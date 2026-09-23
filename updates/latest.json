@@ -1,68 +1,50 @@
 {
-    "version":  "1.2.8",
-    "build_number":  52,
-    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.8/confandy_1.2.8_setup.exe",
+    "version":  "1.2.9",
+    "build_number":  53,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.9/confandy_1.2.9_setup.exe",
     "release_notes":  [
-                          "Imágenes de notas y tickets con fondo blanco.",
-                          "Guardado en el álbum Confandy de la galería.",
-                          "Confirmación de guardado visible sobre la nota y opción Ver imagen.",
-                          "Productos e Inventario: 20, 50 o 100 por página.",
-                          "Escaneo en buscadores de productos de los distintos formularios.",
-                          "Busqueda de reportes y apertura inmediata de notificaciones sin ventanas duplicadas.",
-                          "Comprobacion de conexion mas ligera.",
-                          "Escaneo continuo: quitar ultima unidad o agregar otra con acciones separadas.",
-                          "Espera limitada al buscar codigos no encontrados.",
-                          "Catálogos con caché local y actualización manual, sin recargas automáticas repetitivas.",
-                          "Vales ya no recarga el catálogo en cada comprobación de conexión.",
-                          "Solicitudes simultáneas del mismo catálogo se comparten para evitar duplicados."
+                          "Codigo de barras opcional por variante: vacio usa el principal; con valor usa el de la variante.",
+                          "Escaner de camara para capturar el codigo de cada variante en Android.",
+                          "Conservacion de codigos de variante al editar, trabajar sin conexion e importar/exportar CSV.",
+                          "Actualizacion manual del catalogo dentro de Nueva compra sin perder lo capturado.",
+                          "Proteccion contra solicitudes repetidas al actualizar el catalogo de compras.",
+                          "Busqueda de productos por el codigo propio de una variante."
                       ],
-    "published_at":  "2026-09-21T01:09:54Z",
-    "installer_name":  "confandy_1.2.8_setup.exe",
-    "sha256":  "53fc36beb35204fafac07f5ac47da9900a6d140b4efe945c3c675e5572a32277",
+    "published_at":  "2026-09-23T18:05:46Z",
+    "installer_name":  "confandy_1.2.9_setup.exe",
+    "sha256":  "d851ff9a63e479e092502870cdfc13345e8b3b6098051fbb7bf6b0929b479e65",
     "platforms":  {
                       "windows":  {
-                                      "version":  "1.2.8",
-                                      "build_number":  52,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.8/confandy_1.2.8_setup.exe",
+                                      "version":  "1.2.9",
+                                      "build_number":  53,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.9/confandy_1.2.9_setup.exe",
                                       "release_notes":  [
-                                                            "Imágenes de notas y tickets con fondo blanco.",
-                                                            "Guardado en el álbum Confandy de la galería.",
-                                                            "Confirmación de guardado visible sobre la nota y opción Ver imagen.",
-                                                            "Productos e Inventario: 20, 50 o 100 por página.",
-                                                            "Escaneo en buscadores de productos de los distintos formularios.",
-                                                            "Busqueda de reportes y apertura inmediata de notificaciones sin ventanas duplicadas.",
-                                                            "Comprobacion de conexion mas ligera.",
-                                                            "Escaneo continuo: quitar ultima unidad o agregar otra con acciones separadas.",
-                                                            "Espera limitada al buscar codigos no encontrados.",
-                                                            "Catálogos con caché local y actualización manual, sin recargas automáticas repetitivas.",
-                                                            "Vales ya no recarga el catálogo en cada comprobación de conexión.",
-                                                            "Solicitudes simultáneas del mismo catálogo se comparten para evitar duplicados."
+                                                            "Codigo de barras opcional por variante: vacio usa el principal; con valor usa el de la variante.",
+                                                            "Escaner de camara para capturar el codigo de cada variante en Android.",
+                                                            "Conservacion de codigos de variante al editar, trabajar sin conexion e importar/exportar CSV.",
+                                                            "Actualizacion manual del catalogo dentro de Nueva compra sin perder lo capturado.",
+                                                            "Proteccion contra solicitudes repetidas al actualizar el catalogo de compras.",
+                                                            "Busqueda de productos por el codigo propio de una variante."
                                                         ],
-                                      "published_at":  "2026-09-21T01:09:54Z",
-                                      "installer_name":  "confandy_1.2.8_setup.exe",
-                                      "sha256":  "53fc36beb35204fafac07f5ac47da9900a6d140b4efe945c3c675e5572a32277"
+                                      "published_at":  "2026-09-23T18:05:46Z",
+                                      "installer_name":  "confandy_1.2.9_setup.exe",
+                                      "sha256":  "d851ff9a63e479e092502870cdfc13345e8b3b6098051fbb7bf6b0929b479e65"
                                   },
                       "android":  {
-                                      "version":  "1.2.8",
-                                      "build_number":  52,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.8/confandy_android_1.2.8.apk",
+                                      "version":  "1.2.9",
+                                      "build_number":  53,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.9/confandy_android_1.2.9.apk",
                                       "release_notes":  [
-                                                            "Imágenes de notas y tickets con fondo blanco.",
-                                                            "Guardado en el álbum Confandy de la galería.",
-                                                            "Confirmación de guardado visible sobre la nota y opción Ver imagen.",
-                                                            "Productos e Inventario: 20, 50 o 100 por página.",
-                                                            "Escaneo en buscadores de productos de los distintos formularios.",
-                                                            "Busqueda de reportes y apertura inmediata de notificaciones sin ventanas duplicadas.",
-                                                            "Comprobacion de conexion mas ligera.",
-                                                            "Escaneo continuo: quitar ultima unidad o agregar otra con acciones separadas.",
-                                                            "Espera limitada al buscar codigos no encontrados.",
-                                                            "Catálogos con caché local y actualización manual, sin recargas automáticas repetitivas.",
-                                                            "Vales ya no recarga el catálogo en cada comprobación de conexión.",
-                                                            "Solicitudes simultáneas del mismo catálogo se comparten para evitar duplicados."
+                                                            "Codigo de barras opcional por variante: vacio usa el principal; con valor usa el de la variante.",
+                                                            "Escaner de camara para capturar el codigo de cada variante en Android.",
+                                                            "Conservacion de codigos de variante al editar, trabajar sin conexion e importar/exportar CSV.",
+                                                            "Actualizacion manual del catalogo dentro de Nueva compra sin perder lo capturado.",
+                                                            "Proteccion contra solicitudes repetidas al actualizar el catalogo de compras.",
+                                                            "Busqueda de productos por el codigo propio de una variante."
                                                         ],
-                                      "published_at":  "2026-09-21T01:10:29Z",
-                                      "installer_name":  "confandy_android_1.2.8.apk",
-                                      "sha256":  "55a7038bf3d4d664e94fc3ffa3517f8fd09b11027510820dc6a8bd96e6616d59"
+                                      "published_at":  "2026-09-23T18:07:04Z",
+                                      "installer_name":  "confandy_android_1.2.9.apk",
+                                      "sha256":  "101ede3b98b155bb712e063ebb9b242d121506776fedb205683cd9866c19d84a"
                                   }
                   }
 }
