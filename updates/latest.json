@@ -1,50 +1,71 @@
 {
-    "version":  "1.2.9",
-    "build_number":  53,
-    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.9/confandy_1.2.9_setup.exe",
+    "version":  "1.2.10",
+    "build_number":  56,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.10/confandy_1.2.10_setup.exe",
     "release_notes":  [
-                          "Codigo de barras opcional por variante: vacio usa el principal; con valor usa el de la variante.",
-                          "Escaner de camara para capturar el codigo de cada variante en Android.",
-                          "Conservacion de codigos de variante al editar, trabajar sin conexion e importar/exportar CSV.",
-                          "Actualizacion manual del catalogo dentro de Nueva compra sin perder lo capturado.",
-                          "Proteccion contra solicitudes repetidas al actualizar el catalogo de compras.",
-                          "Busqueda de productos por el codigo propio de una variante."
+                          "Apertura de apartados con prioridad al catalogo guardado y existencias pendientes.",
+                          "Consulta de autorizadores solo cuando se solicita una autorizacion.",
+                          "Limite de espera al abrir apartados para evitar bloqueos indefinidos.",
+                          "Proteccion contra ventanas duplicadas y respuestas tardias.",
+                          "Incluye las mejoras de codigos de barras por variante de la version 1.2.9.",
+                          "Recarga manual dentro del buscador en compras, apartados, cotizaciones, creditos, vales, devoluciones y transferencias.",
+                          "Acceso a recarga dentro de los buscadores de Productos e Inventario.",
+                          "Se retira el boton externo de actualizar catalogo en Compras.",
+                          "Formato visual de nombres por usuario en Avanzado: mayusculas, minusculas e iniciales mayusculas.",
+                          "Limite de espera compartido al abrir formularios y filtros, sin ventanas tardias duplicadas.",
+                          "Detalles de ventas, apartados y cotizaciones sin consultas repetidas al redibujar; boton Reintentar si falla la carga.",
+                          "Limites de espera y reintento en detalles de compras, vales, devoluciones, creditos y notificaciones.",
+                          "Reportes con limite de consulta y proteccion contra clics repetidos."
                       ],
-    "published_at":  "2026-09-23T18:05:46Z",
-    "installer_name":  "confandy_1.2.9_setup.exe",
-    "sha256":  "d851ff9a63e479e092502870cdfc13345e8b3b6098051fbb7bf6b0929b479e65",
+    "published_at":  "2026-09-23T22:55:23Z",
+    "installer_name":  "confandy_1.2.10_setup.exe",
+    "sha256":  "113edeef17c044dcb01b25c869dddb3c8bb6aa5857e5d65dcf28f527b41b9fee",
     "platforms":  {
                       "windows":  {
-                                      "version":  "1.2.9",
-                                      "build_number":  53,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.9/confandy_1.2.9_setup.exe",
+                                      "version":  "1.2.10",
+                                      "build_number":  56,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.10/confandy_1.2.10_setup.exe",
                                       "release_notes":  [
-                                                            "Codigo de barras opcional por variante: vacio usa el principal; con valor usa el de la variante.",
-                                                            "Escaner de camara para capturar el codigo de cada variante en Android.",
-                                                            "Conservacion de codigos de variante al editar, trabajar sin conexion e importar/exportar CSV.",
-                                                            "Actualizacion manual del catalogo dentro de Nueva compra sin perder lo capturado.",
-                                                            "Proteccion contra solicitudes repetidas al actualizar el catalogo de compras.",
-                                                            "Busqueda de productos por el codigo propio de una variante."
+                                                            "Apertura de apartados con prioridad al catalogo guardado y existencias pendientes.",
+                                                            "Consulta de autorizadores solo cuando se solicita una autorizacion.",
+                                                            "Limite de espera al abrir apartados para evitar bloqueos indefinidos.",
+                                                            "Proteccion contra ventanas duplicadas y respuestas tardias.",
+                                                            "Incluye las mejoras de codigos de barras por variante de la version 1.2.9.",
+                                                            "Recarga manual dentro del buscador en compras, apartados, cotizaciones, creditos, vales, devoluciones y transferencias.",
+                                                            "Acceso a recarga dentro de los buscadores de Productos e Inventario.",
+                                                            "Se retira el boton externo de actualizar catalogo en Compras.",
+                                                            "Formato visual de nombres por usuario en Avanzado: mayusculas, minusculas e iniciales mayusculas.",
+                                                            "Limite de espera compartido al abrir formularios y filtros, sin ventanas tardias duplicadas.",
+                                                            "Detalles de ventas, apartados y cotizaciones sin consultas repetidas al redibujar; boton Reintentar si falla la carga.",
+                                                            "Limites de espera y reintento en detalles de compras, vales, devoluciones, creditos y notificaciones.",
+                                                            "Reportes con limite de consulta y proteccion contra clics repetidos."
                                                         ],
-                                      "published_at":  "2026-09-23T18:05:46Z",
-                                      "installer_name":  "confandy_1.2.9_setup.exe",
-                                      "sha256":  "d851ff9a63e479e092502870cdfc13345e8b3b6098051fbb7bf6b0929b479e65"
+                                      "published_at":  "2026-09-23T22:55:23Z",
+                                      "installer_name":  "confandy_1.2.10_setup.exe",
+                                      "sha256":  "113edeef17c044dcb01b25c869dddb3c8bb6aa5857e5d65dcf28f527b41b9fee"
                                   },
                       "android":  {
-                                      "version":  "1.2.9",
-                                      "build_number":  53,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.9/confandy_android_1.2.9.apk",
+                                      "version":  "1.2.10",
+                                      "build_number":  56,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.10/confandy_android_1.2.10.apk",
                                       "release_notes":  [
-                                                            "Codigo de barras opcional por variante: vacio usa el principal; con valor usa el de la variante.",
-                                                            "Escaner de camara para capturar el codigo de cada variante en Android.",
-                                                            "Conservacion de codigos de variante al editar, trabajar sin conexion e importar/exportar CSV.",
-                                                            "Actualizacion manual del catalogo dentro de Nueva compra sin perder lo capturado.",
-                                                            "Proteccion contra solicitudes repetidas al actualizar el catalogo de compras.",
-                                                            "Busqueda de productos por el codigo propio de una variante."
+                                                            "Apertura de apartados con prioridad al catalogo guardado y existencias pendientes.",
+                                                            "Consulta de autorizadores solo cuando se solicita una autorizacion.",
+                                                            "Limite de espera al abrir apartados para evitar bloqueos indefinidos.",
+                                                            "Proteccion contra ventanas duplicadas y respuestas tardias.",
+                                                            "Incluye las mejoras de codigos de barras por variante de la version 1.2.9.",
+                                                            "Recarga manual dentro del buscador en compras, apartados, cotizaciones, creditos, vales, devoluciones y transferencias.",
+                                                            "Acceso a recarga dentro de los buscadores de Productos e Inventario.",
+                                                            "Se retira el boton externo de actualizar catalogo en Compras.",
+                                                            "Formato visual de nombres por usuario en Avanzado: mayusculas, minusculas e iniciales mayusculas.",
+                                                            "Limite de espera compartido al abrir formularios y filtros, sin ventanas tardias duplicadas.",
+                                                            "Detalles de ventas, apartados y cotizaciones sin consultas repetidas al redibujar; boton Reintentar si falla la carga.",
+                                                            "Limites de espera y reintento en detalles de compras, vales, devoluciones, creditos y notificaciones.",
+                                                            "Reportes con limite de consulta y proteccion contra clics repetidos."
                                                         ],
-                                      "published_at":  "2026-09-23T18:07:04Z",
-                                      "installer_name":  "confandy_android_1.2.9.apk",
-                                      "sha256":  "101ede3b98b155bb712e063ebb9b242d121506776fedb205683cd9866c19d84a"
+                                      "published_at":  "2026-09-23T22:57:31Z",
+                                      "installer_name":  "confandy_android_1.2.10.apk",
+                                      "sha256":  "8c1e6c99b38eaee4d873e4dac4484efdb7da86a6777e8aaac01d10d0bfafb7b5"
                                   }
                   }
 }
