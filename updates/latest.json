@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.10",
-    "build_number":  56,
-    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.10/confandy_1.2.10_setup.exe",
+    "version":  "1.3.0",
+    "build_number":  58,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.0/confandy_1.3.0_setup.exe",
     "release_notes":  [
                           "Apertura de apartados con prioridad al catalogo guardado y existencias pendientes.",
                           "Consulta de autorizadores solo cuando se solicita una autorizacion.",
@@ -15,16 +15,19 @@
                           "Limite de espera compartido al abrir formularios y filtros, sin ventanas tardias duplicadas.",
                           "Detalles de ventas, apartados y cotizaciones sin consultas repetidas al redibujar; boton Reintentar si falla la carga.",
                           "Limites de espera y reintento en detalles de compras, vales, devoluciones, creditos y notificaciones.",
-                          "Reportes con limite de consulta y proteccion contra clics repetidos."
+                          "Reportes con limite de consulta y proteccion contra clics repetidos.",
+                          "Busqueda puntual de codigos de variante ausentes del catalogo local en ventas, vales, compras, apartados, cotizaciones, creditos, devoluciones y transferencias.",
+                          "Consulta por codigo con espera limitada, sin descarga completa ni reintentos automaticos; conserva lo capturado y descarta respuestas de busquedas anteriores.",
+                          "Inventario conserva y busca los codigos de todas las variantes, tambien sin existencia; Mercado Libre limita la espera al buscar vinculaciones."
                       ],
-    "published_at":  "2026-09-23T22:55:23Z",
-    "installer_name":  "confandy_1.2.10_setup.exe",
-    "sha256":  "113edeef17c044dcb01b25c869dddb3c8bb6aa5857e5d65dcf28f527b41b9fee",
+    "published_at":  "2026-09-24T00:34:13Z",
+    "installer_name":  "confandy_1.3.0_setup.exe",
+    "sha256":  "ca7c8b3a3484221929159c6415b9f093b474659bf13397ddeab2b11173a88c8e",
     "platforms":  {
                       "windows":  {
-                                      "version":  "1.2.10",
-                                      "build_number":  56,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.10/confandy_1.2.10_setup.exe",
+                                      "version":  "1.3.0",
+                                      "build_number":  58,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.0/confandy_1.3.0_setup.exe",
                                       "release_notes":  [
                                                             "Apertura de apartados con prioridad al catalogo guardado y existencias pendientes.",
                                                             "Consulta de autorizadores solo cuando se solicita una autorizacion.",
@@ -38,16 +41,19 @@
                                                             "Limite de espera compartido al abrir formularios y filtros, sin ventanas tardias duplicadas.",
                                                             "Detalles de ventas, apartados y cotizaciones sin consultas repetidas al redibujar; boton Reintentar si falla la carga.",
                                                             "Limites de espera y reintento en detalles de compras, vales, devoluciones, creditos y notificaciones.",
-                                                            "Reportes con limite de consulta y proteccion contra clics repetidos."
+                                                            "Reportes con limite de consulta y proteccion contra clics repetidos.",
+                                                            "Busqueda puntual de codigos de variante ausentes del catalogo local en ventas, vales, compras, apartados, cotizaciones, creditos, devoluciones y transferencias.",
+                                                            "Consulta por codigo con espera limitada, sin descarga completa ni reintentos automaticos; conserva lo capturado y descarta respuestas de busquedas anteriores.",
+                                                            "Inventario conserva y busca los codigos de todas las variantes, tambien sin existencia; Mercado Libre limita la espera al buscar vinculaciones."
                                                         ],
-                                      "published_at":  "2026-09-23T22:55:23Z",
-                                      "installer_name":  "confandy_1.2.10_setup.exe",
-                                      "sha256":  "113edeef17c044dcb01b25c869dddb3c8bb6aa5857e5d65dcf28f527b41b9fee"
+                                      "published_at":  "2026-09-24T00:34:13Z",
+                                      "installer_name":  "confandy_1.3.0_setup.exe",
+                                      "sha256":  "ca7c8b3a3484221929159c6415b9f093b474659bf13397ddeab2b11173a88c8e"
                                   },
                       "android":  {
-                                      "version":  "1.2.10",
-                                      "build_number":  56,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.2.10/confandy_android_1.2.10.apk",
+                                      "version":  "1.3.0",
+                                      "build_number":  58,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.0/confandy_android_1.3.0.apk",
                                       "release_notes":  [
                                                             "Apertura de apartados con prioridad al catalogo guardado y existencias pendientes.",
                                                             "Consulta de autorizadores solo cuando se solicita una autorizacion.",
@@ -61,11 +67,14 @@
                                                             "Limite de espera compartido al abrir formularios y filtros, sin ventanas tardias duplicadas.",
                                                             "Detalles de ventas, apartados y cotizaciones sin consultas repetidas al redibujar; boton Reintentar si falla la carga.",
                                                             "Limites de espera y reintento en detalles de compras, vales, devoluciones, creditos y notificaciones.",
-                                                            "Reportes con limite de consulta y proteccion contra clics repetidos."
+                                                            "Reportes con limite de consulta y proteccion contra clics repetidos.",
+                                                            "Busqueda puntual de codigos de variante ausentes del catalogo local en ventas, vales, compras, apartados, cotizaciones, creditos, devoluciones y transferencias.",
+                                                            "Consulta por codigo con espera limitada, sin descarga completa ni reintentos automaticos; conserva lo capturado y descarta respuestas de busquedas anteriores.",
+                                                            "Inventario conserva y busca los codigos de todas las variantes, tambien sin existencia; Mercado Libre limita la espera al buscar vinculaciones."
                                                         ],
-                                      "published_at":  "2026-09-23T22:57:31Z",
-                                      "installer_name":  "confandy_android_1.2.10.apk",
-                                      "sha256":  "8c1e6c99b38eaee4d873e4dac4484efdb7da86a6777e8aaac01d10d0bfafb7b5"
+                                      "published_at":  "2026-09-24T00:36:00Z",
+                                      "installer_name":  "confandy_android_1.3.0.apk",
+                                      "sha256":  "537b3cb052e9b52da550d203f02d06688a47073d9c6abeb2501fc05c186815b4"
                                   }
                   }
 }
