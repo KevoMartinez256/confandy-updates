@@ -1,50 +1,47 @@
 {
-    "version":  "1.3.1",
-    "build_number":  59,
-    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.1/confandy_1.3.1_setup.exe",
+    "version":  "1.3.2",
+    "build_number":  65,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.2/confandy_1.3.2_setup.exe",
     "release_notes":  [
-                          "Busqueda en linea por nombre, modelo y SKU, ademas de codigos de barras por variante.",
-                          "Recarga de la busqueda actual sin descargar el catalogo completo en Ventas, Compras, Vales, Devoluciones, Apartados, Cotizaciones, Creditos y Traspasos.",
-                          "Resultados limitados, pausa al escribir y consultas simultaneas compartidas para reducir trafico.",
-                          "Recargar sin texto solicita escribir una busqueda; conserva las partidas y datos capturados.",
-                          "Avisos visibles en el formulario cuando falla la consulta o hace falta precisar la busqueda.",
-                          "Conserva los cambios de la version 1.3.0."
+                          "Mejoras de rendimiento y menor carga de consultas.",
+                          "Partidas adaptables y cantidades editables en las operaciones.",
+                          "Reportes corregidos, filtros de clientes y formatos horizontales.",
+                          "Notificaciones con b?squeda y categor?as: solo pendientes, Entendido retira el aviso.",
+                          "Totales de cr?ditos, inventario a precio p?blico y saldo de caja, con visibilidad por rol."
                       ],
-    "published_at":  "2026-09-25T20:24:28Z",
-    "installer_name":  "confandy_1.3.1_setup.exe",
-    "sha256":  "f72963725e317a8c179fce45aa0b883820cd46bf349f96b8ca1d66cd81ba1985",
+    "published_at":  "2026-09-30T19:22:30Z",
+    "installer_name":  "confandy_1.3.2_setup.exe",
+    "sha256":  "d0714b5256d7509edc3b7960e85265f8cc3afd6613950b4f4aa6fe8759fb3eda",
     "platforms":  {
                       "windows":  {
-                                      "version":  "1.3.1",
-                                      "build_number":  59,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.1/confandy_1.3.1_setup.exe",
+                                      "version":  "1.3.2",
+                                      "build_number":  65,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.2/confandy_1.3.2_setup.exe",
                                       "release_notes":  [
-                                                            "Busqueda en linea por nombre, modelo y SKU, ademas de codigos de barras por variante.",
-                                                            "Recarga de la busqueda actual sin descargar el catalogo completo en Ventas, Compras, Vales, Devoluciones, Apartados, Cotizaciones, Creditos y Traspasos.",
-                                                            "Resultados limitados, pausa al escribir y consultas simultaneas compartidas para reducir trafico.",
-                                                            "Recargar sin texto solicita escribir una busqueda; conserva las partidas y datos capturados.",
-                                                            "Avisos visibles en el formulario cuando falla la consulta o hace falta precisar la busqueda.",
-                                                            "Conserva los cambios de la version 1.3.0."
+                                                            "Mejoras de rendimiento y menor carga de consultas.",
+                                                            "Partidas adaptables y cantidades editables en las operaciones.",
+                                                            "Reportes corregidos, filtros de clientes y formatos horizontales.",
+                                                            "Notificaciones con b?squeda y categor?as: solo pendientes, Entendido retira el aviso.",
+                                                            "Totales de cr?ditos, inventario a precio p?blico y saldo de caja, con visibilidad por rol."
                                                         ],
-                                      "published_at":  "2026-09-25T20:24:28Z",
-                                      "installer_name":  "confandy_1.3.1_setup.exe",
-                                      "sha256":  "f72963725e317a8c179fce45aa0b883820cd46bf349f96b8ca1d66cd81ba1985"
+                                      "published_at":  "2026-09-30T19:22:30Z",
+                                      "installer_name":  "confandy_1.3.2_setup.exe",
+                                      "sha256":  "d0714b5256d7509edc3b7960e85265f8cc3afd6613950b4f4aa6fe8759fb3eda"
                                   },
                       "android":  {
-                                      "version":  "1.3.1",
-                                      "build_number":  59,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.1/confandy_android_1.3.1.apk",
+                                      "version":  "1.3.2",
+                                      "build_number":  65,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.2/confandy_android_1.3.2.apk",
                                       "release_notes":  [
-                                                            "Busqueda en linea por nombre, modelo y SKU, ademas de codigos de barras por variante.",
-                                                            "Recarga de la busqueda actual sin descargar el catalogo completo en Ventas, Compras, Vales, Devoluciones, Apartados, Cotizaciones, Creditos y Traspasos.",
-                                                            "Resultados limitados, pausa al escribir y consultas simultaneas compartidas para reducir trafico.",
-                                                            "Recargar sin texto solicita escribir una busqueda; conserva las partidas y datos capturados.",
-                                                            "Avisos visibles en el formulario cuando falla la consulta o hace falta precisar la busqueda.",
-                                                            "Conserva los cambios de la version 1.3.0."
+                                                            "Mejoras de rendimiento y menor carga de consultas.",
+                                                            "Partidas adaptables y cantidades editables en las operaciones.",
+                                                            "Reportes corregidos, filtros de clientes y formatos horizontales.",
+                                                            "Notificaciones con b?squeda y categor?as: solo pendientes, Entendido retira el aviso.",
+                                                            "Totales de cr?ditos, inventario a precio p?blico y saldo de caja, con visibilidad por rol."
                                                         ],
-                                      "published_at":  "2026-09-25T20:27:06Z",
-                                      "installer_name":  "confandy_android_1.3.1.apk",
-                                      "sha256":  "d897e89f197f9bb90f9e50f39f3ce949cf59c7394cb26e76226c2a2d4889a134"
+                                      "published_at":  "2026-09-30T19:22:31Z",
+                                      "installer_name":  "confandy_android_1.3.2.apk",
+                                      "sha256":  "37997d62453268a73077a895f14aef97756053d496df323c854957b2b40f6640"
                                   }
                   }
 }
