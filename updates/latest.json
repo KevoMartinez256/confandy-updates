@@ -1,56 +1,44 @@
 {
-    "version":  "1.3.3",
-    "build_number":  76,
-    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.3/confandy_1.3.3_setup.exe",
+    "version":  "1.3.5",
+    "build_number":  86,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.5/confandy_1.3.5_setup.exe",
     "release_notes":  [
-                          "Nueva imagen de Lumeni e inicio de sesión en morado oscuro.",
-                          "Menús laterales y pestañas reordenables al mantener pulsado y arrastrar; orden guardado por usuario.",
-                          "Búsquedas adaptables al espacio disponible en Inventario y Mercado Libre.",
-                          "Buscador de módulos con iconos y tabla de clientes adaptable.",
-                          "Cantidades editables manualmente en créditos y alta de clientes desde las operaciones.",
-                          "Permiso para consultar totales e indicadores; importes ocultos cuando no se tiene acceso.",
-                          "Miniaturas en publicaciones y pedidos de Mercado Libre, con selección de artículos corregida.",
-                          "Filtros de productos más rápidos y subinventarios en un selector compacto."
+                          "Nueva venta en Android organizada en Productos/Cliente, Pago y Resumen.",
+                          "Buscador movil con apertura del teclado y foco estable al escribir.",
+                          "Visor PDF dentro de la app movil con zoom, paginas y acciones separadas para guardar e imprimir.",
+                          "Incluye las mejoras previas de reportes de Mercado Libre y autorizaciones de venta."
                       ],
-    "published_at":  "2026-10-03T04:55:23Z",
-    "installer_name":  "confandy_1.3.3_setup.exe",
-    "sha256":  "3dd5a9f818bbebb36ded2db7eb10226bba6de5d3309da354436b6c9ce2b73034",
+    "published_at":  "2026-10-06T21:57:25Z",
+    "installer_name":  "confandy_1.3.5_setup.exe",
+    "sha256":  "78c789c06370c58e5ade31d908fb1b8425cafce4d9256dc248fbd141aba1c31f",
     "platforms":  {
                       "windows":  {
-                                      "version":  "1.3.3",
-                                      "build_number":  76,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.3/confandy_1.3.3_setup.exe",
+                                      "version":  "1.3.5",
+                                      "build_number":  86,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.5/confandy_1.3.5_setup.exe",
                                       "release_notes":  [
-                                                            "Nueva imagen de Lumeni e inicio de sesión en morado oscuro.",
-                                                            "Menús laterales y pestañas reordenables al mantener pulsado y arrastrar; orden guardado por usuario.",
-                                                            "Búsquedas adaptables al espacio disponible en Inventario y Mercado Libre.",
-                                                            "Buscador de módulos con iconos y tabla de clientes adaptable.",
-                                                            "Cantidades editables manualmente en créditos y alta de clientes desde las operaciones.",
-                                                            "Permiso para consultar totales e indicadores; importes ocultos cuando no se tiene acceso.",
-                                                            "Miniaturas en publicaciones y pedidos de Mercado Libre, con selección de artículos corregida.",
-                                                            "Filtros de productos más rápidos y subinventarios en un selector compacto."
+                                                            "Nueva venta en Android organizada en Productos/Cliente, Pago y Resumen.",
+                                                            "Buscador movil con apertura del teclado y foco estable al escribir.",
+                                                            "Visor PDF dentro de la app movil con zoom, paginas y acciones separadas para guardar e imprimir.",
+                                                            "Incluye las mejoras previas de reportes de Mercado Libre y autorizaciones de venta."
                                                         ],
-                                      "published_at":  "2026-10-03T04:55:23Z",
-                                      "installer_name":  "confandy_1.3.3_setup.exe",
-                                      "sha256":  "3dd5a9f818bbebb36ded2db7eb10226bba6de5d3309da354436b6c9ce2b73034"
+                                      "published_at":  "2026-10-06T21:57:25Z",
+                                      "installer_name":  "confandy_1.3.5_setup.exe",
+                                      "sha256":  "78c789c06370c58e5ade31d908fb1b8425cafce4d9256dc248fbd141aba1c31f"
                                   },
                       "android":  {
-                                      "version":  "1.3.3",
-                                      "build_number":  76,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.3/confandy_android_1.3.3.apk",
+                                      "version":  "1.3.5",
+                                      "build_number":  86,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.5/confandy_android_1.3.5.apk",
                                       "release_notes":  [
-                                                            "Nueva imagen de Lumeni e inicio de sesión en morado oscuro.",
-                                                            "Menús laterales y pestañas reordenables al mantener pulsado y arrastrar; orden guardado por usuario.",
-                                                            "Búsquedas adaptables al espacio disponible en Inventario y Mercado Libre.",
-                                                            "Buscador de módulos con iconos y tabla de clientes adaptable.",
-                                                            "Cantidades editables manualmente en créditos y alta de clientes desde las operaciones.",
-                                                            "Permiso para consultar totales e indicadores; importes ocultos cuando no se tiene acceso.",
-                                                            "Miniaturas en publicaciones y pedidos de Mercado Libre, con selección de artículos corregida.",
-                                                            "Filtros de productos más rápidos y subinventarios en un selector compacto."
+                                                            "Nueva venta en Android organizada en Productos/Cliente, Pago y Resumen.",
+                                                            "Buscador movil con apertura del teclado y foco estable al escribir.",
+                                                            "Visor PDF dentro de la app movil con zoom, paginas y acciones separadas para guardar e imprimir.",
+                                                            "Incluye las mejoras previas de reportes de Mercado Libre y autorizaciones de venta."
                                                         ],
-                                      "published_at":  "2026-10-03T04:55:23Z",
-                                      "installer_name":  "confandy_android_1.3.3.apk",
-                                      "sha256":  "a1fabf5f42a83a0b94254509b07cb0a2a2d893b12ba47afb40d524dd9fb15031"
+                                      "published_at":  "2026-10-06T21:57:42Z",
+                                      "installer_name":  "confandy_android_1.3.5.apk",
+                                      "sha256":  "ae5539bc26dfa23a274cd4e9de01692efe83778dcc4463bf97208309bd7f51d3"
                                   }
                   }
 }
