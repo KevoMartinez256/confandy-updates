@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.7",
-    "build_number":  95,
-    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.7/confandy_1.3.7_setup.exe",
+    "version":  "1.3.8",
+    "build_number":  97,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.8/confandy_1.3.8_setup.exe",
     "release_notes":  [
                           "Inicio separa las ventas y cobros del punto de venta de Mercado Libre.",
                           "Cobrado muestra pagos de ventas, apartados y creditos del dia sin duplicar importes.",
@@ -14,16 +14,17 @@
                           "Correccion de acentos, ene y textos con codificacion danada en pantallas y notas PDF.",
                           "Inicio: corrige Creditos y separadores del desglose. Android: Efectivo, Tarjeta y Deposito asignan el total; Personalizado permite repartir el pago.",
                           "Compras: conserva borradores sin productos, ordena guardados y guarda al salir o pasar a segundo plano. Formas de pago sin menu de tres puntos.",
-                          "Android: boton Credito y pago Manual. Colores nuevos persistidos en catalogo y borradores; protege registro de compras ante errores de refresco y reintentos de conexion."
+                          "Android: boton Credito y pago Manual. Colores nuevos persistidos en catalogo y borradores; protege registro de compras ante errores de refresco y reintentos de conexion.",
+                          "Compras recibidas: edición atómica por diferencias de cantidades, sin revertir toda la recepción. Conserva el editor ante errores y recupera productos faltantes del catálogo local."
                       ],
-    "published_at":  "2026-10-10T20:38:17Z",
-    "installer_name":  "confandy_1.3.7_setup.exe",
-    "sha256":  "ff066e837708cc2c06697da0c8932be2eeaa3d0bc0792d564af64e89f5c2ce79",
+    "published_at":  "2026-10-10T21:03:06Z",
+    "installer_name":  "confandy_1.3.8_setup.exe",
+    "sha256":  "3d01bd28ba821ceb16df5b8e7876346262929ce7c341b92cc61eb0f0943f08c4",
     "platforms":  {
                       "windows":  {
-                                      "version":  "1.3.7",
-                                      "build_number":  95,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.7/confandy_1.3.7_setup.exe",
+                                      "version":  "1.3.8",
+                                      "build_number":  97,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.8/confandy_1.3.8_setup.exe",
                                       "release_notes":  [
                                                             "Inicio separa las ventas y cobros del punto de venta de Mercado Libre.",
                                                             "Cobrado muestra pagos de ventas, apartados y creditos del dia sin duplicar importes.",
@@ -36,16 +37,17 @@
                                                             "Correccion de acentos, ene y textos con codificacion danada en pantallas y notas PDF.",
                                                             "Inicio: corrige Creditos y separadores del desglose. Android: Efectivo, Tarjeta y Deposito asignan el total; Personalizado permite repartir el pago.",
                                                             "Compras: conserva borradores sin productos, ordena guardados y guarda al salir o pasar a segundo plano. Formas de pago sin menu de tres puntos.",
-                                                            "Android: boton Credito y pago Manual. Colores nuevos persistidos en catalogo y borradores; protege registro de compras ante errores de refresco y reintentos de conexion."
+                                                            "Android: boton Credito y pago Manual. Colores nuevos persistidos en catalogo y borradores; protege registro de compras ante errores de refresco y reintentos de conexion.",
+                                                            "Compras recibidas: edición atómica por diferencias de cantidades, sin revertir toda la recepción. Conserva el editor ante errores y recupera productos faltantes del catálogo local."
                                                         ],
-                                      "published_at":  "2026-10-10T20:38:17Z",
-                                      "installer_name":  "confandy_1.3.7_setup.exe",
-                                      "sha256":  "ff066e837708cc2c06697da0c8932be2eeaa3d0bc0792d564af64e89f5c2ce79"
+                                      "published_at":  "2026-10-10T21:03:06Z",
+                                      "installer_name":  "confandy_1.3.8_setup.exe",
+                                      "sha256":  "3d01bd28ba821ceb16df5b8e7876346262929ce7c341b92cc61eb0f0943f08c4"
                                   },
                       "android":  {
-                                      "version":  "1.3.7",
-                                      "build_number":  95,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.7/confandy_android_1.3.7.apk",
+                                      "version":  "1.3.8",
+                                      "build_number":  97,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.8/confandy_android_1.3.8.apk",
                                       "release_notes":  [
                                                             "Inicio separa las ventas y cobros del punto de venta de Mercado Libre.",
                                                             "Cobrado muestra pagos de ventas, apartados y creditos del dia sin duplicar importes.",
@@ -58,11 +60,12 @@
                                                             "Correccion de acentos, ene y textos con codificacion danada en pantallas y notas PDF.",
                                                             "Inicio: corrige Creditos y separadores del desglose. Android: Efectivo, Tarjeta y Deposito asignan el total; Personalizado permite repartir el pago.",
                                                             "Compras: conserva borradores sin productos, ordena guardados y guarda al salir o pasar a segundo plano. Formas de pago sin menu de tres puntos.",
-                                                            "Android: boton Credito y pago Manual. Colores nuevos persistidos en catalogo y borradores; protege registro de compras ante errores de refresco y reintentos de conexion."
+                                                            "Android: boton Credito y pago Manual. Colores nuevos persistidos en catalogo y borradores; protege registro de compras ante errores de refresco y reintentos de conexion.",
+                                                            "Compras recibidas: edición atómica por diferencias de cantidades, sin revertir toda la recepción. Conserva el editor ante errores y recupera productos faltantes del catálogo local."
                                                         ],
-                                      "published_at":  "2026-10-10T20:39:45Z",
-                                      "installer_name":  "confandy_android_1.3.7.apk",
-                                      "sha256":  "25e5e26f8a257389c26423119b5cb8da01dc6d35d96482809358a6ea42ce6095"
+                                      "published_at":  "2026-10-10T21:05:58Z",
+                                      "installer_name":  "confandy_android_1.3.8.apk",
+                                      "sha256":  "290bd02d5ad2a7b582d84ecd31696351f553f73b61d96ae21a06c92d303ca2fb"
                                   }
                   }
 }
