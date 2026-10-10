@@ -1,47 +1,53 @@
 {
     "version":  "1.3.6",
-    "build_number":  88,
+    "build_number":  90,
     "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.6/confandy_1.3.6_setup.exe",
     "release_notes":  [
                           "Inicio separa las ventas y cobros del punto de venta de Mercado Libre.",
                           "Cobrado muestra pagos de ventas, apartados y creditos del dia sin duplicar importes.",
                           "Reportes descarta datos anteriores al cambiar fechas y evita exportar filas de otro periodo.",
                           "Incluye venta movil en tres pasos, teclado estable y visor PDF con zoom.",
-                          "Una sola clave autoriza articulos especiales y cambios de precio durante la misma venta."
+                          "Una sola clave autoriza articulos especiales y cambios de precio durante la misma venta.",
+                          "Apartados: articulo especial arriba, precio con lapiz y una sola clave por apartado; busqueda local sin consultas automaticas. Articulos especiales independientes y sin descontar inventario.",
+                          "Apartados sin filtro de fechas: consulta por folio/cliente y estado en paginas de 50 registros; evita descargar todo el historial."
                       ],
-    "published_at":  "2026-10-10T04:45:28Z",
+    "published_at":  "2026-10-10T05:25:30Z",
     "installer_name":  "confandy_1.3.6_setup.exe",
-    "sha256":  "b9cd3de1c1f4742d65341057a488f0fe341457ad6d9820b822fc5a7e9cb57104",
+    "sha256":  "39bea8b1e0c9c9d8ddfdafb25c78cdd48ca6941b3645b330081e5a743017b554",
     "platforms":  {
                       "windows":  {
                                       "version":  "1.3.6",
-                                      "build_number":  88,
+                                      "build_number":  90,
                                       "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.6/confandy_1.3.6_setup.exe",
                                       "release_notes":  [
                                                             "Inicio separa las ventas y cobros del punto de venta de Mercado Libre.",
                                                             "Cobrado muestra pagos de ventas, apartados y creditos del dia sin duplicar importes.",
                                                             "Reportes descarta datos anteriores al cambiar fechas y evita exportar filas de otro periodo.",
                                                             "Incluye venta movil en tres pasos, teclado estable y visor PDF con zoom.",
-                                                            "Una sola clave autoriza articulos especiales y cambios de precio durante la misma venta."
+                                                            "Una sola clave autoriza articulos especiales y cambios de precio durante la misma venta.",
+                                                            "Apartados: articulo especial arriba, precio con lapiz y una sola clave por apartado; busqueda local sin consultas automaticas. Articulos especiales independientes y sin descontar inventario.",
+                                                            "Apartados sin filtro de fechas: consulta por folio/cliente y estado en paginas de 50 registros; evita descargar todo el historial."
                                                         ],
-                                      "published_at":  "2026-10-10T04:45:28Z",
+                                      "published_at":  "2026-10-10T05:25:30Z",
                                       "installer_name":  "confandy_1.3.6_setup.exe",
-                                      "sha256":  "b9cd3de1c1f4742d65341057a488f0fe341457ad6d9820b822fc5a7e9cb57104"
+                                      "sha256":  "39bea8b1e0c9c9d8ddfdafb25c78cdd48ca6941b3645b330081e5a743017b554"
                                   },
                       "android":  {
                                       "version":  "1.3.6",
-                                      "build_number":  88,
+                                      "build_number":  90,
                                       "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.6/confandy_android_1.3.6.apk",
                                       "release_notes":  [
                                                             "Inicio separa las ventas y cobros del punto de venta de Mercado Libre.",
                                                             "Cobrado muestra pagos de ventas, apartados y creditos del dia sin duplicar importes.",
                                                             "Reportes descarta datos anteriores al cambiar fechas y evita exportar filas de otro periodo.",
                                                             "Incluye venta movil en tres pasos, teclado estable y visor PDF con zoom.",
-                                                            "Una sola clave autoriza articulos especiales y cambios de precio durante la misma venta."
+                                                            "Una sola clave autoriza articulos especiales y cambios de precio durante la misma venta.",
+                                                            "Apartados: articulo especial arriba, precio con lapiz y una sola clave por apartado; busqueda local sin consultas automaticas. Articulos especiales independientes y sin descontar inventario.",
+                                                            "Apartados sin filtro de fechas: consulta por folio/cliente y estado en paginas de 50 registros; evita descargar todo el historial."
                                                         ],
-                                      "published_at":  "2026-10-10T04:48:59Z",
+                                      "published_at":  "2026-10-10T05:28:56Z",
                                       "installer_name":  "confandy_android_1.3.6.apk",
-                                      "sha256":  "bd078e21c665c6f3eb0cdda1a84d558902e2c9d74311def7affe39b3a5def487"
+                                      "sha256":  "6ed584515287b43bbfd3a5f2ef660dc5a4470ded0d7569cef4229b83cce2f2fe"
                                   }
                   }
 }
