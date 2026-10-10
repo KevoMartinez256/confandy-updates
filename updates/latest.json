@@ -1,44 +1,47 @@
 {
-    "version":  "1.3.5",
-    "build_number":  86,
-    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.5/confandy_1.3.5_setup.exe",
+    "version":  "1.3.6",
+    "build_number":  88,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.6/confandy_1.3.6_setup.exe",
     "release_notes":  [
-                          "Nueva venta en Android organizada en Productos/Cliente, Pago y Resumen.",
-                          "Buscador movil con apertura del teclado y foco estable al escribir.",
-                          "Visor PDF dentro de la app movil con zoom, paginas y acciones separadas para guardar e imprimir.",
-                          "Incluye las mejoras previas de reportes de Mercado Libre y autorizaciones de venta."
+                          "Inicio separa las ventas y cobros del punto de venta de Mercado Libre.",
+                          "Cobrado muestra pagos de ventas, apartados y creditos del dia sin duplicar importes.",
+                          "Reportes descarta datos anteriores al cambiar fechas y evita exportar filas de otro periodo.",
+                          "Incluye venta movil en tres pasos, teclado estable y visor PDF con zoom.",
+                          "Una sola clave autoriza articulos especiales y cambios de precio durante la misma venta."
                       ],
-    "published_at":  "2026-10-06T21:57:25Z",
-    "installer_name":  "confandy_1.3.5_setup.exe",
-    "sha256":  "78c789c06370c58e5ade31d908fb1b8425cafce4d9256dc248fbd141aba1c31f",
+    "published_at":  "2026-10-10T04:45:28Z",
+    "installer_name":  "confandy_1.3.6_setup.exe",
+    "sha256":  "b9cd3de1c1f4742d65341057a488f0fe341457ad6d9820b822fc5a7e9cb57104",
     "platforms":  {
                       "windows":  {
-                                      "version":  "1.3.5",
-                                      "build_number":  86,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.5/confandy_1.3.5_setup.exe",
+                                      "version":  "1.3.6",
+                                      "build_number":  88,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.6/confandy_1.3.6_setup.exe",
                                       "release_notes":  [
-                                                            "Nueva venta en Android organizada en Productos/Cliente, Pago y Resumen.",
-                                                            "Buscador movil con apertura del teclado y foco estable al escribir.",
-                                                            "Visor PDF dentro de la app movil con zoom, paginas y acciones separadas para guardar e imprimir.",
-                                                            "Incluye las mejoras previas de reportes de Mercado Libre y autorizaciones de venta."
+                                                            "Inicio separa las ventas y cobros del punto de venta de Mercado Libre.",
+                                                            "Cobrado muestra pagos de ventas, apartados y creditos del dia sin duplicar importes.",
+                                                            "Reportes descarta datos anteriores al cambiar fechas y evita exportar filas de otro periodo.",
+                                                            "Incluye venta movil en tres pasos, teclado estable y visor PDF con zoom.",
+                                                            "Una sola clave autoriza articulos especiales y cambios de precio durante la misma venta."
                                                         ],
-                                      "published_at":  "2026-10-06T21:57:25Z",
-                                      "installer_name":  "confandy_1.3.5_setup.exe",
-                                      "sha256":  "78c789c06370c58e5ade31d908fb1b8425cafce4d9256dc248fbd141aba1c31f"
+                                      "published_at":  "2026-10-10T04:45:28Z",
+                                      "installer_name":  "confandy_1.3.6_setup.exe",
+                                      "sha256":  "b9cd3de1c1f4742d65341057a488f0fe341457ad6d9820b822fc5a7e9cb57104"
                                   },
                       "android":  {
-                                      "version":  "1.3.5",
-                                      "build_number":  86,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.5/confandy_android_1.3.5.apk",
+                                      "version":  "1.3.6",
+                                      "build_number":  88,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.3.6/confandy_android_1.3.6.apk",
                                       "release_notes":  [
-                                                            "Nueva venta en Android organizada en Productos/Cliente, Pago y Resumen.",
-                                                            "Buscador movil con apertura del teclado y foco estable al escribir.",
-                                                            "Visor PDF dentro de la app movil con zoom, paginas y acciones separadas para guardar e imprimir.",
-                                                            "Incluye las mejoras previas de reportes de Mercado Libre y autorizaciones de venta."
+                                                            "Inicio separa las ventas y cobros del punto de venta de Mercado Libre.",
+                                                            "Cobrado muestra pagos de ventas, apartados y creditos del dia sin duplicar importes.",
+                                                            "Reportes descarta datos anteriores al cambiar fechas y evita exportar filas de otro periodo.",
+                                                            "Incluye venta movil en tres pasos, teclado estable y visor PDF con zoom.",
+                                                            "Una sola clave autoriza articulos especiales y cambios de precio durante la misma venta."
                                                         ],
-                                      "published_at":  "2026-10-06T21:57:42Z",
-                                      "installer_name":  "confandy_android_1.3.5.apk",
-                                      "sha256":  "ae5539bc26dfa23a274cd4e9de01692efe83778dcc4463bf97208309bd7f51d3"
+                                      "published_at":  "2026-10-10T04:48:59Z",
+                                      "installer_name":  "confandy_android_1.3.6.apk",
+                                      "sha256":  "bd078e21c665c6f3eb0cdda1a84d558902e2c9d74311def7affe39b3a5def487"
                                   }
                   }
 }
