@@ -1,47 +1,53 @@
 {
-  "version": "1.4.0",
-  "build_number": 107,
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.0/confandy_1.4.0_setup.exe",
+  "version": "1.4.1",
+  "build_number": 115,
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.1/confandy_1.4.1_setup.exe",
   "release_notes": [
-    "Teclado Android se oculta al deslizar listas, sin interrumpir la escritura.",
-    "Productos: cabecera y filtros se desplazan, títulos de columnas permanecen fijos.",
-    "Códigos compartidos entre variantes, con identidades y existencias independientes.",
-    "Inicio sin gráficas; menos trabajo al contar la caché y menor espera al cargar sesión.",
-    "Aviso de desconexión con espera de confirmación para evitar destellos breves."
+    "Las búsquedas amplias ya no muestran avisos flotantes repetidos; la orientación aparece debajo del buscador.",
+    "Marcas utiliza tarjetas con avatar y fecha, como Clientes y Proveedores.",
+    "Menú de reportes con categorías de tamaño fijo, sin saltos al seleccionar ni al entrar o salir de Mercado Libre.",
+    "Búsqueda automática al escribir en compras, apartados, cotizaciones, vales, devoluciones y créditos.",
+    "La X limpia y actualiza inmediatamente. Pausa de 250 ms para agrupar pulsaciones y evitar solicitudes redundantes.",
+    "Conserva búsqueda por producto y marca, autorización, impresión personalizable y mejoras previas."
   ],
-  "published_at": "2026-10-18T03:23:41.898Z",
-  "installer_name": "confandy_1.4.0_setup.exe",
-  "sha256": "b525a44abce0895e22efadeb0a398b0b400e1e4ce5eca7d460f0e317f87dc4f4",
+  "published_at": "2026-10-20T03:07:17.710Z",
+  "installer_name": "confandy_1.4.1_setup.exe",
+  "size_bytes": 17171008,
+  "sha256": "c94bf07a7a549d1592f6a0edbbc74eb33838140e6611abb42199044fd63625d1",
   "platforms": {
     "windows": {
-      "version": "1.4.0",
-      "build_number": 107,
-      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.0/confandy_1.4.0_setup.exe",
+      "version": "1.4.1",
+      "build_number": 115,
+      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.1/confandy_1.4.1_setup.exe",
       "release_notes": [
-        "Teclado Android se oculta al deslizar listas, sin interrumpir la escritura.",
-        "Productos: cabecera y filtros se desplazan, títulos de columnas permanecen fijos.",
-        "Códigos compartidos entre variantes, con identidades y existencias independientes.",
-        "Inicio sin gráficas; menos trabajo al contar la caché y menor espera al cargar sesión.",
-        "Aviso de desconexión con espera de confirmación para evitar destellos breves."
+        "Las búsquedas amplias ya no muestran avisos flotantes repetidos; la orientación aparece debajo del buscador.",
+        "Marcas utiliza tarjetas con avatar y fecha, como Clientes y Proveedores.",
+        "Menú de reportes con categorías de tamaño fijo, sin saltos al seleccionar ni al entrar o salir de Mercado Libre.",
+        "Búsqueda automática al escribir en compras, apartados, cotizaciones, vales, devoluciones y créditos.",
+        "La X limpia y actualiza inmediatamente. Pausa de 250 ms para agrupar pulsaciones y evitar solicitudes redundantes.",
+        "Conserva búsqueda por producto y marca, autorización, impresión personalizable y mejoras previas."
       ],
-      "published_at": "2026-10-18T03:23:41.898Z",
-      "installer_name": "confandy_1.4.0_setup.exe",
-      "sha256": "b525a44abce0895e22efadeb0a398b0b400e1e4ce5eca7d460f0e317f87dc4f4"
+      "published_at": "2026-10-20T03:07:17.710Z",
+      "installer_name": "confandy_1.4.1_setup.exe",
+      "size_bytes": 17171008,
+      "sha256": "c94bf07a7a549d1592f6a0edbbc74eb33838140e6611abb42199044fd63625d1"
     },
     "android": {
-      "version": "1.4.0",
-      "build_number": 107,
-      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.0/confandy_android_1.4.0.apk",
+      "version": "1.4.1",
+      "build_number": 115,
+      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.1/confandy_android_1.4.1.apk",
       "release_notes": [
-        "Teclado Android se oculta al deslizar listas, sin interrumpir la escritura.",
-        "Productos: cabecera y filtros se desplazan, títulos de columnas permanecen fijos.",
-        "Códigos compartidos entre variantes, con identidades y existencias independientes.",
-        "Inicio sin gráficas; menos trabajo al contar la caché y menor espera al cargar sesión.",
-        "Aviso de desconexión con espera de confirmación para evitar destellos breves."
+        "Las búsquedas amplias ya no muestran avisos flotantes repetidos; la orientación aparece debajo del buscador.",
+        "Marcas utiliza tarjetas con avatar y fecha, como Clientes y Proveedores.",
+        "Menú de reportes con categorías de tamaño fijo, sin saltos al seleccionar ni al entrar o salir de Mercado Libre.",
+        "Búsqueda automática al escribir en compras, apartados, cotizaciones, vales, devoluciones y créditos.",
+        "La X limpia y actualiza inmediatamente. Pausa de 250 ms para agrupar pulsaciones y evitar solicitudes redundantes.",
+        "Conserva búsqueda por producto y marca, autorización, impresión personalizable y mejoras previas."
       ],
-      "published_at": "2026-10-18T03:23:42.501Z",
-      "installer_name": "confandy_android_1.4.0.apk",
-      "sha256": "15fb91bb3b137662bce8ec5b44cecb4e0896cbda9308e4c616e5202a5c07c58b"
+      "published_at": "2026-10-20T03:07:18.338Z",
+      "installer_name": "confandy_android_1.4.1.apk",
+      "size_bytes": 116983694,
+      "sha256": "3cf9b9b9798a8c48ecb39a30b91a279c7f202a7abfc73b4f53455d47fde01b47"
     }
   }
 }
