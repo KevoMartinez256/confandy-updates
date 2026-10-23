@@ -1,53 +1,44 @@
 {
-  "version": "1.4.1",
-  "build_number": 115,
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.1/confandy_1.4.1_setup.exe",
-  "release_notes": [
-    "Las búsquedas amplias ya no muestran avisos flotantes repetidos; la orientación aparece debajo del buscador.",
-    "Marcas utiliza tarjetas con avatar y fecha, como Clientes y Proveedores.",
-    "Menú de reportes con categorías de tamaño fijo, sin saltos al seleccionar ni al entrar o salir de Mercado Libre.",
-    "Búsqueda automática al escribir en compras, apartados, cotizaciones, vales, devoluciones y créditos.",
-    "La X limpia y actualiza inmediatamente. Pausa de 250 ms para agrupar pulsaciones y evitar solicitudes redundantes.",
-    "Conserva búsqueda por producto y marca, autorización, impresión personalizable y mejoras previas."
-  ],
-  "published_at": "2026-10-20T03:07:17.710Z",
-  "installer_name": "confandy_1.4.1_setup.exe",
-  "size_bytes": 17171008,
-  "sha256": "c94bf07a7a549d1592f6a0edbbc74eb33838140e6611abb42199044fd63625d1",
-  "platforms": {
-    "windows": {
-      "version": "1.4.1",
-      "build_number": 115,
-      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.1/confandy_1.4.1_setup.exe",
-      "release_notes": [
-        "Las búsquedas amplias ya no muestran avisos flotantes repetidos; la orientación aparece debajo del buscador.",
-        "Marcas utiliza tarjetas con avatar y fecha, como Clientes y Proveedores.",
-        "Menú de reportes con categorías de tamaño fijo, sin saltos al seleccionar ni al entrar o salir de Mercado Libre.",
-        "Búsqueda automática al escribir en compras, apartados, cotizaciones, vales, devoluciones y créditos.",
-        "La X limpia y actualiza inmediatamente. Pausa de 250 ms para agrupar pulsaciones y evitar solicitudes redundantes.",
-        "Conserva búsqueda por producto y marca, autorización, impresión personalizable y mejoras previas."
-      ],
-      "published_at": "2026-10-20T03:07:17.710Z",
-      "installer_name": "confandy_1.4.1_setup.exe",
-      "size_bytes": 17171008,
-      "sha256": "c94bf07a7a549d1592f6a0edbbc74eb33838140e6611abb42199044fd63625d1"
-    },
-    "android": {
-      "version": "1.4.1",
-      "build_number": 115,
-      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.1/confandy_android_1.4.1.apk",
-      "release_notes": [
-        "Las búsquedas amplias ya no muestran avisos flotantes repetidos; la orientación aparece debajo del buscador.",
-        "Marcas utiliza tarjetas con avatar y fecha, como Clientes y Proveedores.",
-        "Menú de reportes con categorías de tamaño fijo, sin saltos al seleccionar ni al entrar o salir de Mercado Libre.",
-        "Búsqueda automática al escribir en compras, apartados, cotizaciones, vales, devoluciones y créditos.",
-        "La X limpia y actualiza inmediatamente. Pausa de 250 ms para agrupar pulsaciones y evitar solicitudes redundantes.",
-        "Conserva búsqueda por producto y marca, autorización, impresión personalizable y mejoras previas."
-      ],
-      "published_at": "2026-10-20T03:07:18.338Z",
-      "installer_name": "confandy_android_1.4.1.apk",
-      "size_bytes": 116983694,
-      "sha256": "3cf9b9b9798a8c48ecb39a30b91a279c7f202a7abfc73b4f53455d47fde01b47"
-    }
-  }
+    "version":  "1.4.2",
+    "build_number":  117,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.2/confandy_1.4.2_setup.exe",
+    "release_notes":  [
+                          "Corregidas las recargas de catálogos al renovar la sesión.",
+                          "Actualizar en Productos consulta datos nuevos y avisa si falla la conexión.",
+                          "Inventario evita que una consulta anterior sustituya existencias recién actualizadas.",
+                          "Selector Tienda/Almacén oculto temporalmente en Ventas y Apartados, conservando las reglas actuales de existencias."
+                      ],
+    "published_at":  "2026-10-23T15:17:29Z",
+    "installer_name":  "confandy_1.4.2_setup.exe",
+    "sha256":  "7a5221960484b37e6415492ce665c513225d77bae4dd8a75a3e3a6239fa3cca3",
+    "platforms":  {
+                      "windows":  {
+                                      "version":  "1.4.2",
+                                      "build_number":  117,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.2/confandy_1.4.2_setup.exe",
+                                      "release_notes":  [
+                                                            "Corregidas las recargas de catálogos al renovar la sesión.",
+                                                            "Actualizar en Productos consulta datos nuevos y avisa si falla la conexión.",
+                                                            "Inventario evita que una consulta anterior sustituya existencias recién actualizadas.",
+                                                            "Selector Tienda/Almacén oculto temporalmente en Ventas y Apartados, conservando las reglas actuales de existencias."
+                                                        ],
+                                      "published_at":  "2026-10-23T15:17:29Z",
+                                      "installer_name":  "confandy_1.4.2_setup.exe",
+                                      "sha256":  "7a5221960484b37e6415492ce665c513225d77bae4dd8a75a3e3a6239fa3cca3"
+                                  },
+                      "android":  {
+                                      "version":  "1.4.2",
+                                      "build_number":  117,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.2/confandy_android_1.4.2.apk",
+                                      "release_notes":  [
+                                                            "Corregidas las recargas de catálogos al renovar la sesión.",
+                                                            "Actualizar en Productos consulta datos nuevos y avisa si falla la conexión.",
+                                                            "Inventario evita que una consulta anterior sustituya existencias recién actualizadas.",
+                                                            "Selector Tienda/Almacén oculto temporalmente en Ventas y Apartados, conservando las reglas actuales de existencias."
+                                                        ],
+                                      "published_at":  "2026-10-23T15:17:30Z",
+                                      "installer_name":  "confandy_android_1.4.2.apk",
+                                      "sha256":  "3be45ae9fdf3b160f6c2943486ebe7097eb143ba0ba4943fe3423977964dd5b1"
+                                  }
+                  }
 }
