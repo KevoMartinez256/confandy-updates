@@ -1,0 +1,48 @@
+{
+  "version": "1.1.0",
+  "build_number": 68,
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/confety-v1.1.0/confety_world_1.1.0_setup.exe",
+  "installer_name": "confety_world_1.1.0_setup.exe",
+  "sha256": "4ee34e1c4ceb786fd885f287c4bc8a18339cbcbfe613d668256fd942c608ef5f",
+  "size_bytes": 17301070,
+  "published_at": "2026-10-24T19:15:30Z",
+  "release_notes": [
+    "Combos por producto completo o variante específica.",
+    "Búsqueda de combos en nueva venta con descripción y elección de variantes.",
+    "Tickets de 68 u 80 mm configurables por equipo.",
+    "Canal de actualizaciones independiente para Confety World."
+  ],
+  "app_id": "confety_world",
+  "platforms": {
+    "windows": {
+      "version": "1.1.0",
+      "build_number": 68,
+      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/confety-v1.1.0/confety_world_1.1.0_setup.exe",
+      "installer_name": "confety_world_1.1.0_setup.exe",
+      "sha256": "4ee34e1c4ceb786fd885f287c4bc8a18339cbcbfe613d668256fd942c608ef5f",
+      "size_bytes": 17301070,
+      "published_at": "2026-10-24T19:15:30Z",
+      "release_notes": [
+        "Combos por producto completo o variante específica.",
+        "Búsqueda de combos en nueva venta con descripción y elección de variantes.",
+        "Tickets de 68 u 80 mm configurables por equipo.",
+        "Canal de actualizaciones independiente para Confety World."
+      ]
+    },
+    "android": {
+      "version": "1.1.0",
+      "build_number": 68,
+      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/confety-v1.1.0/confety_world_android_1.1.0.apk",
+      "installer_name": "confety_world_android_1.1.0.apk",
+      "sha256": "47dd88b7527a028e477506c51dec093fc9819594b7906553db6335919fa3f6a1",
+      "size_bytes": 117698578,
+      "published_at": "2026-10-24T19:15:30Z",
+      "release_notes": [
+        "Combos por producto completo o variante específica.",
+        "Búsqueda de combos en nueva venta con descripción y elección de variantes.",
+        "Tickets de 68 u 80 mm configurables por equipo.",
+        "Canal de actualizaciones independiente para Confety World."
+      ]
+    }
+  }
+}
