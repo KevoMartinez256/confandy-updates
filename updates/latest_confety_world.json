@@ -1,44 +1,47 @@
 {
-  "version": "1.1.1",
-  "build_number": 69,
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/confety-v1.1.1/confety_world_1.1.1_setup.exe",
-  "installer_name": "confety_world_1.1.1_setup.exe",
-  "sha256": "8d6dff6e7b4e38e138d27787890466d66a0df4de7bfd948314decff4dd2de5c1",
-  "size_bytes": 17313281,
-  "published_at": "2026-10-24T19:44:28Z",
+  "version": "1.1.2",
+  "build_number": 70,
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/confety-v1.1.2/confety_world_1.1.2_setup.exe",
+  "installer_name": "confety_world_1.1.2_setup.exe",
+  "sha256": "4b509d0cab0d4530d1fce06a2d92e6519dd0efe9c562bbfa135a28c2b972c0b0",
+  "size_bytes": 17318630,
+  "published_at": "2026-10-24T23:38:16Z",
   "release_notes": [
-    "Selección de productos y variantes de combos con casillas.",
-    "Varias variantes seleccionadas se aceptan como alternativas.",
-    "Botones de ticket muestran 68 mm u 80 mm según la configuración."
+    "Nuevo comprobante de preventa en ticket de 68 u 80 mm.",
+    "Vista previa, impresión y guardado desde el detalle de preventa.",
+    "Diseño de ticket de preventa personalizable, con abonos y saldo pendiente.",
+    "Se conserva la nota de preventa en PDF."
   ],
   "app_id": "confety_world",
   "platforms": {
     "windows": {
-      "version": "1.1.1",
-      "build_number": 69,
-      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/confety-v1.1.1/confety_world_1.1.1_setup.exe",
-      "installer_name": "confety_world_1.1.1_setup.exe",
-      "sha256": "8d6dff6e7b4e38e138d27787890466d66a0df4de7bfd948314decff4dd2de5c1",
-      "size_bytes": 17313281,
-      "published_at": "2026-10-24T19:44:28Z",
+      "version": "1.1.2",
+      "build_number": 70,
+      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/confety-v1.1.2/confety_world_1.1.2_setup.exe",
+      "installer_name": "confety_world_1.1.2_setup.exe",
+      "sha256": "4b509d0cab0d4530d1fce06a2d92e6519dd0efe9c562bbfa135a28c2b972c0b0",
+      "size_bytes": 17318630,
+      "published_at": "2026-10-24T23:38:16Z",
       "release_notes": [
-        "Selección de productos y variantes de combos con casillas.",
-        "Varias variantes seleccionadas se aceptan como alternativas.",
-        "Botones de ticket muestran 68 mm u 80 mm según la configuración."
+        "Nuevo comprobante de preventa en ticket de 68 u 80 mm.",
+        "Vista previa, impresión y guardado desde el detalle de preventa.",
+        "Diseño de ticket de preventa personalizable, con abonos y saldo pendiente.",
+        "Se conserva la nota de preventa en PDF."
       ]
     },
     "android": {
-      "version": "1.1.1",
-      "build_number": 69,
-      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/confety-v1.1.1/confety_world_android_1.1.1.apk",
-      "installer_name": "confety_world_android_1.1.1.apk",
-      "sha256": "08d79f620390ba517d2040cb2f0c101ff57055bbdfe856b427da9e0a238ea06e",
-      "size_bytes": 117846030,
-      "published_at": "2026-10-24T19:44:28Z",
+      "version": "1.1.2",
+      "build_number": 70,
+      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/confety-v1.1.2/confety_world_android_1.1.2.apk",
+      "installer_name": "confety_world_android_1.1.2.apk",
+      "sha256": "3fa5242695528b816017c28f8d980ecb892fec2733afddc0e30aea5405ad075b",
+      "size_bytes": 117878802,
+      "published_at": "2026-10-24T23:38:16Z",
       "release_notes": [
-        "Selección de productos y variantes de combos con casillas.",
-        "Varias variantes seleccionadas se aceptan como alternativas.",
-        "Botones de ticket muestran 68 mm u 80 mm según la configuración."
+        "Nuevo comprobante de preventa en ticket de 68 u 80 mm.",
+        "Vista previa, impresión y guardado desde el detalle de preventa.",
+        "Diseño de ticket de preventa personalizable, con abonos y saldo pendiente.",
+        "Se conserva la nota de preventa en PDF."
       ]
     }
   }
