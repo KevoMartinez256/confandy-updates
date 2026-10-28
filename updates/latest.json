@@ -1,44 +1,38 @@
 {
-    "version":  "1.4.2",
-    "build_number":  117,
-    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.2/confandy_1.4.2_setup.exe",
+    "version":  "1.4.3",
+    "build_number":  120,
+    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.3/confandy_1.4.3_setup.exe",
     "release_notes":  [
-                          "Corregidas las recargas de catálogos al renovar la sesión.",
-                          "Actualizar en Productos consulta datos nuevos y avisa si falla la conexión.",
-                          "Inventario evita que una consulta anterior sustituya existencias recién actualizadas.",
-                          "Selector Tienda/Almacén oculto temporalmente en Ventas y Apartados, conservando las reglas actuales de existencias."
+                          "Reporte de compras ordenado por folio consecutivo ascendente en pantalla y PDF.",
+                          "Se conservan los folios, fechas, proveedores e importes originales."
                       ],
-    "published_at":  "2026-10-23T15:17:29Z",
-    "installer_name":  "confandy_1.4.2_setup.exe",
-    "sha256":  "7a5221960484b37e6415492ce665c513225d77bae4dd8a75a3e3a6239fa3cca3",
+    "published_at":  "2026-10-28T22:22:13Z",
+    "installer_name":  "confandy_1.4.3_setup.exe",
+    "sha256":  "d18b1019d807f31ec85dff29f0a6c45042ae18ffecceab8711519f5f75a5eafc",
     "platforms":  {
                       "windows":  {
-                                      "version":  "1.4.2",
-                                      "build_number":  117,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.2/confandy_1.4.2_setup.exe",
+                                      "version":  "1.4.3",
+                                      "build_number":  120,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.3/confandy_1.4.3_setup.exe",
                                       "release_notes":  [
-                                                            "Corregidas las recargas de catálogos al renovar la sesión.",
-                                                            "Actualizar en Productos consulta datos nuevos y avisa si falla la conexión.",
-                                                            "Inventario evita que una consulta anterior sustituya existencias recién actualizadas.",
-                                                            "Selector Tienda/Almacén oculto temporalmente en Ventas y Apartados, conservando las reglas actuales de existencias."
+                                                            "Reporte de compras ordenado por folio consecutivo ascendente en pantalla y PDF.",
+                                                            "Se conservan los folios, fechas, proveedores e importes originales."
                                                         ],
-                                      "published_at":  "2026-10-23T15:17:29Z",
-                                      "installer_name":  "confandy_1.4.2_setup.exe",
-                                      "sha256":  "7a5221960484b37e6415492ce665c513225d77bae4dd8a75a3e3a6239fa3cca3"
+                                      "published_at":  "2026-10-28T22:22:13Z",
+                                      "installer_name":  "confandy_1.4.3_setup.exe",
+                                      "sha256":  "d18b1019d807f31ec85dff29f0a6c45042ae18ffecceab8711519f5f75a5eafc"
                                   },
                       "android":  {
-                                      "version":  "1.4.2",
-                                      "build_number":  117,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.2/confandy_android_1.4.2.apk",
+                                      "version":  "1.4.3",
+                                      "build_number":  120,
+                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.3/confandy_android_1.4.3.apk",
                                       "release_notes":  [
-                                                            "Corregidas las recargas de catálogos al renovar la sesión.",
-                                                            "Actualizar en Productos consulta datos nuevos y avisa si falla la conexión.",
-                                                            "Inventario evita que una consulta anterior sustituya existencias recién actualizadas.",
-                                                            "Selector Tienda/Almacén oculto temporalmente en Ventas y Apartados, conservando las reglas actuales de existencias."
+                                                            "Reporte de compras ordenado por folio consecutivo ascendente en pantalla y PDF.",
+                                                            "Se conservan los folios, fechas, proveedores e importes originales."
                                                         ],
-                                      "published_at":  "2026-10-23T15:17:30Z",
-                                      "installer_name":  "confandy_android_1.4.2.apk",
-                                      "sha256":  "3be45ae9fdf3b160f6c2943486ebe7097eb143ba0ba4943fe3423977964dd5b1"
+                                      "published_at":  "2026-10-28T22:24:09Z",
+                                      "installer_name":  "confandy_android_1.4.3.apk",
+                                      "sha256":  "f395bcb879647d7ad4fc5597eb242082d129091b986b0cdc107a491f030b7e36"
                                   }
                   }
 }
