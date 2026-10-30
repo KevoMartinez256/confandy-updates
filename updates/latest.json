@@ -1,38 +1,41 @@
 {
-    "version":  "1.4.3",
-    "build_number":  120,
-    "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.3/confandy_1.4.3_setup.exe",
-    "release_notes":  [
-                          "Reporte de compras ordenado por folio consecutivo ascendente en pantalla y PDF.",
-                          "Se conservan los folios, fechas, proveedores e importes originales."
-                      ],
-    "published_at":  "2026-10-28T22:22:13Z",
-    "installer_name":  "confandy_1.4.3_setup.exe",
-    "sha256":  "d18b1019d807f31ec85dff29f0a6c45042ae18ffecceab8711519f5f75a5eafc",
-    "platforms":  {
-                      "windows":  {
-                                      "version":  "1.4.3",
-                                      "build_number":  120,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.3/confandy_1.4.3_setup.exe",
-                                      "release_notes":  [
-                                                            "Reporte de compras ordenado por folio consecutivo ascendente en pantalla y PDF.",
-                                                            "Se conservan los folios, fechas, proveedores e importes originales."
-                                                        ],
-                                      "published_at":  "2026-10-28T22:22:13Z",
-                                      "installer_name":  "confandy_1.4.3_setup.exe",
-                                      "sha256":  "d18b1019d807f31ec85dff29f0a6c45042ae18ffecceab8711519f5f75a5eafc"
-                                  },
-                      "android":  {
-                                      "version":  "1.4.3",
-                                      "build_number":  120,
-                                      "download_url":  "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.3/confandy_android_1.4.3.apk",
-                                      "release_notes":  [
-                                                            "Reporte de compras ordenado por folio consecutivo ascendente en pantalla y PDF.",
-                                                            "Se conservan los folios, fechas, proveedores e importes originales."
-                                                        ],
-                                      "published_at":  "2026-10-28T22:24:09Z",
-                                      "installer_name":  "confandy_android_1.4.3.apk",
-                                      "sha256":  "f395bcb879647d7ad4fc5597eb242082d129091b986b0cdc107a491f030b7e36"
-                                  }
-                  }
+  "version": "1.4.4",
+  "build_number": 121,
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.4/confandy_1.4.4_setup.exe",
+  "release_notes": [
+    "Las notas de compra conservan el orden de captura de los artículos al imprimir, guardar o abrir la vista previa.",
+    "Orden estable al consultar partidas guardadas al mismo tiempo.",
+    "Conserva el reporte de compras ordenado por folio consecutivo."
+  ],
+  "published_at": "2026-10-29T19:24:04Z",
+  "installer_name": "confandy_1.4.4_setup.exe",
+  "sha256": "bf5dda03d13c2ed683d13e296704f579f413213a3b5f040270f2608cda8bf879",
+  "platforms": {
+    "windows": {
+      "version": "1.4.4",
+      "build_number": 121,
+      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.4/confandy_1.4.4_setup.exe",
+      "release_notes": [
+        "Las notas de compra conservan el orden de captura de los artículos al imprimir, guardar o abrir la vista previa.",
+        "Orden estable al consultar partidas guardadas al mismo tiempo.",
+        "Conserva el reporte de compras ordenado por folio consecutivo."
+      ],
+      "published_at": "2026-10-29T19:24:04Z",
+      "installer_name": "confandy_1.4.4_setup.exe",
+      "sha256": "bf5dda03d13c2ed683d13e296704f579f413213a3b5f040270f2608cda8bf879"
+    },
+    "android": {
+      "version": "1.4.4",
+      "build_number": 121,
+      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.4/confandy_android_1.4.4.apk",
+      "release_notes": [
+        "Las notas de compra conservan el orden de captura de los artículos al imprimir, guardar o abrir la vista previa.",
+        "Orden estable al consultar partidas guardadas al mismo tiempo.",
+        "Conserva el reporte de compras ordenado por folio consecutivo."
+      ],
+      "published_at": "2026-10-29T19:26:57Z",
+      "installer_name": "confandy_android_1.4.4.apk",
+      "sha256": "a79a732d3fb60ac36e01f44cb5ae5afa242a7a19c62077a082f06462a02cf3fd"
+    }
+  }
 }
