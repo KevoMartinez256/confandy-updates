@@ -1,41 +1,62 @@
 {
-  "version": "1.4.4",
-  "build_number": 121,
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.4/confandy_1.4.4_setup.exe",
+  "version": "1.4.5",
+  "build_number": 124,
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.5/confandy_1.4.5_setup.exe",
   "release_notes": [
-    "Las notas de compra conservan el orden de captura de los artículos al imprimir, guardar o abrir la vista previa.",
-    "Orden estable al consultar partidas guardadas al mismo tiempo.",
-    "Conserva el reporte de compras ordenado por folio consecutivo."
+    "Combos en Inventario: descuentos por porcentaje o monto, variantes globales o seleccionadas y búsqueda por nombre en ventas.",
+    "Promociones automáticas en ventas, apartados y cotizaciones, con historial en documentos y borradores.",
+    "Tickets de apartado de 80 y 68 mm, vista previa y diseños personalizados.",
+    "Correcciones de abonos, actualización de saldos e identificación de reintentos.",
+    "Mejoras móviles en captura de compras, reportes, escáner y recuperación de sesión.",
+    "Productos recientes por defecto, búsqueda alfabética, copia de modelo y código de barras y variantes personalizadas.",
+    "Ingresos y gastos con ficha de detalle y hora; reportes ordenados por folio consecutivo.",
+    "Navegación que recuerda la última pestaña de cada grupo y desplazamiento al agregar variantes.",
+    "Hora automática al guardar ingresos y gastos, detalle renovado y valor de variante de texto libre.",
+    "Comprobantes históricos de abonos en apartados; reportes móviles compactos, vista previa integrada e impresión; clientes por cobrar precargados; compras por folio y movimientos por fecha/hora; errores claros con diagnóstico y recuperación."
   ],
-  "published_at": "2026-10-29T19:24:04Z",
-  "installer_name": "confandy_1.4.4_setup.exe",
-  "sha256": "bf5dda03d13c2ed683d13e296704f579f413213a3b5f040270f2608cda8bf879",
+  "published_at": "2026-11-05T06:01:52Z",
+  "installer_name": "confandy_1.4.5_setup.exe",
+  "sha256": "4fd854c4c35c45c7d79b66d0fa1e97c1282349bb12eb96594112c133b21d7100",
   "platforms": {
     "windows": {
-      "version": "1.4.4",
-      "build_number": 121,
-      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.4/confandy_1.4.4_setup.exe",
+      "version": "1.4.5",
+      "build_number": 124,
+      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.5/confandy_1.4.5_setup.exe",
       "release_notes": [
-        "Las notas de compra conservan el orden de captura de los artículos al imprimir, guardar o abrir la vista previa.",
-        "Orden estable al consultar partidas guardadas al mismo tiempo.",
-        "Conserva el reporte de compras ordenado por folio consecutivo."
+        "Combos en Inventario: descuentos por porcentaje o monto, variantes globales o seleccionadas y búsqueda por nombre en ventas.",
+        "Promociones automáticas en ventas, apartados y cotizaciones, con historial en documentos y borradores.",
+        "Tickets de apartado de 80 y 68 mm, vista previa y diseños personalizados.",
+        "Correcciones de abonos, actualización de saldos e identificación de reintentos.",
+        "Mejoras móviles en captura de compras, reportes, escáner y recuperación de sesión.",
+        "Productos recientes por defecto, búsqueda alfabética, copia de modelo y código de barras y variantes personalizadas.",
+        "Ingresos y gastos con ficha de detalle y hora; reportes ordenados por folio consecutivo.",
+        "Navegación que recuerda la última pestaña de cada grupo y desplazamiento al agregar variantes.",
+        "Hora automática al guardar ingresos y gastos, detalle renovado y valor de variante de texto libre.",
+        "Comprobantes históricos de abonos en apartados; reportes móviles compactos, vista previa integrada e impresión; clientes por cobrar precargados; compras por folio y movimientos por fecha/hora; errores claros con diagnóstico y recuperación."
       ],
-      "published_at": "2026-10-29T19:24:04Z",
-      "installer_name": "confandy_1.4.4_setup.exe",
-      "sha256": "bf5dda03d13c2ed683d13e296704f579f413213a3b5f040270f2608cda8bf879"
+      "published_at": "2026-11-05T06:01:52Z",
+      "installer_name": "confandy_1.4.5_setup.exe",
+      "sha256": "4fd854c4c35c45c7d79b66d0fa1e97c1282349bb12eb96594112c133b21d7100"
     },
     "android": {
-      "version": "1.4.4",
-      "build_number": 121,
-      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.4/confandy_android_1.4.4.apk",
+      "version": "1.4.5",
+      "build_number": 124,
+      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.5/confandy_android_1.4.5.apk",
       "release_notes": [
-        "Las notas de compra conservan el orden de captura de los artículos al imprimir, guardar o abrir la vista previa.",
-        "Orden estable al consultar partidas guardadas al mismo tiempo.",
-        "Conserva el reporte de compras ordenado por folio consecutivo."
+        "Combos en Inventario: descuentos por porcentaje o monto, variantes globales o seleccionadas y búsqueda por nombre en ventas.",
+        "Promociones automáticas en ventas, apartados y cotizaciones, con historial en documentos y borradores.",
+        "Tickets de apartado de 80 y 68 mm, vista previa y diseños personalizados.",
+        "Correcciones de abonos, actualización de saldos e identificación de reintentos.",
+        "Mejoras móviles en captura de compras, reportes, escáner y recuperación de sesión.",
+        "Productos recientes por defecto, búsqueda alfabética, copia de modelo y código de barras y variantes personalizadas.",
+        "Ingresos y gastos con ficha de detalle y hora; reportes ordenados por folio consecutivo.",
+        "Navegación que recuerda la última pestaña de cada grupo y desplazamiento al agregar variantes.",
+        "Hora automática al guardar ingresos y gastos, detalle renovado y valor de variante de texto libre.",
+        "Comprobantes históricos de abonos en apartados; reportes móviles compactos, vista previa integrada e impresión; clientes por cobrar precargados; compras por folio y movimientos por fecha/hora; errores claros con diagnóstico y recuperación."
       ],
-      "published_at": "2026-10-29T19:26:57Z",
-      "installer_name": "confandy_android_1.4.4.apk",
-      "sha256": "a79a732d3fb60ac36e01f44cb5ae5afa242a7a19c62077a082f06462a02cf3fd"
+      "published_at": "2026-11-05T06:03:30Z",
+      "installer_name": "confandy_android_1.4.5.apk",
+      "sha256": "14a6d99d9e63621e2a6b082e4435366d44384d13a81dcdf4c34f59497a1bb69a"
     }
   }
 }
