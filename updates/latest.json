@@ -1,62 +1,44 @@
 {
-  "version": "1.4.6",
-  "build_number": 127,
-  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.6/confandy_1.4.6_setup.exe",
+  "version": "1.4.7",
+  "build_number": 129,
+  "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.7/confandy_1.4.7_setup.exe",
   "release_notes": [
-    "Los apartados reservan inventario al guardarse, lo liberan al cancelarse y no lo descuentan dos veces al entregarse.",
-    "Guardar borradores de ventas sin el límite anterior de tres activos.",
-    "Impresión de reportes respetando el tamaño y la orientación del PDF.",
-    "Las notas vinculadas a créditos se gestionan desde Créditos para evitar alterar indebidamente sus saldos.",
-    "Reporte de ventas por cliente ordenado por folio ascendente.",
-    "Dirección y teléfono del cliente en las notas de venta y apartado.",
-    "Inventario: nueva consulta de Apartados con productos, variantes, cliente, folio y origen de las reservas, excluidas del disponible de Mercado Libre.",
-    "Créditos y abonos usan el mismo folio VTA de su venta; las referencias CRE anteriores siguen disponibles para búsqueda.",
-    "Recuperación de sincronización de Mercado Libre ante ResourceDeprecated en consultas por lote.",
-    "Devoluciones: existencias actuales sin filtro de fecha, retiros por garantía a proveedor seleccionado con vale de salida y acceso al registro de regreso mediante vale de entrada."
+    "Confandy 1.4.7 build 129",
+    "- Impresion de hojas con margen interior de seguridad de 5 mm y centrado proporcional.",
+    "- Escala del controlador fijada al 100%; el ajuste al area imprimible lo realiza la aplicacion.",
+    "- Conserva impresora configurada, orientacion automatica y tickets de 68/80 mm."
   ],
-  "published_at": "2026-11-13T19:26:12Z",
-  "installer_name": "confandy_1.4.6_setup.exe",
-  "sha256": "6cbe0ac57aaec7018523dbae7dc629851c94a8c416444549d4f77f386aac84b6",
+  "published_at": "2026-11-13T23:52:11Z",
+  "installer_name": "confandy_1.4.7_setup.exe",
+  "sha256": "bc41128fd2fd35a1a762d227f27b542dd0f05e5e823fc3e7e207a317c9290a19",
   "platforms": {
     "windows": {
-      "version": "1.4.6",
-      "build_number": 127,
-      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.6/confandy_1.4.6_setup.exe",
+      "version": "1.4.7",
+      "build_number": 129,
+      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.7/confandy_1.4.7_setup.exe",
       "release_notes": [
-        "Los apartados reservan inventario al guardarse, lo liberan al cancelarse y no lo descuentan dos veces al entregarse.",
-        "Guardar borradores de ventas sin el límite anterior de tres activos.",
-        "Impresión de reportes respetando el tamaño y la orientación del PDF.",
-        "Las notas vinculadas a créditos se gestionan desde Créditos para evitar alterar indebidamente sus saldos.",
-        "Reporte de ventas por cliente ordenado por folio ascendente.",
-        "Dirección y teléfono del cliente en las notas de venta y apartado.",
-        "Inventario: nueva consulta de Apartados con productos, variantes, cliente, folio y origen de las reservas, excluidas del disponible de Mercado Libre.",
-        "Créditos y abonos usan el mismo folio VTA de su venta; las referencias CRE anteriores siguen disponibles para búsqueda.",
-        "Recuperación de sincronización de Mercado Libre ante ResourceDeprecated en consultas por lote.",
-        "Devoluciones: existencias actuales sin filtro de fecha, retiros por garantía a proveedor seleccionado con vale de salida y acceso al registro de regreso mediante vale de entrada."
+        "Confandy 1.4.7 build 129",
+        "- Impresion de hojas con margen interior de seguridad de 5 mm y centrado proporcional.",
+        "- Escala del controlador fijada al 100%; el ajuste al area imprimible lo realiza la aplicacion.",
+        "- Conserva impresora configurada, orientacion automatica y tickets de 68/80 mm."
       ],
-      "published_at": "2026-11-13T19:26:12Z",
-      "installer_name": "confandy_1.4.6_setup.exe",
-      "sha256": "6cbe0ac57aaec7018523dbae7dc629851c94a8c416444549d4f77f386aac84b6"
+      "published_at": "2026-11-13T23:52:11Z",
+      "installer_name": "confandy_1.4.7_setup.exe",
+      "sha256": "bc41128fd2fd35a1a762d227f27b542dd0f05e5e823fc3e7e207a317c9290a19"
     },
     "android": {
-      "version": "1.4.6",
-      "build_number": 127,
-      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.6/confandy_android_1.4.6.apk",
+      "version": "1.4.7",
+      "build_number": 129,
+      "download_url": "https://github.com/KevoMartinez256/confandy-updates/releases/download/v1.4.7/confandy_android_1.4.7.apk",
       "release_notes": [
-        "Los apartados reservan inventario al guardarse, lo liberan al cancelarse y no lo descuentan dos veces al entregarse.",
-        "Guardar borradores de ventas sin el límite anterior de tres activos.",
-        "Impresión de reportes respetando el tamaño y la orientación del PDF.",
-        "Las notas vinculadas a créditos se gestionan desde Créditos para evitar alterar indebidamente sus saldos.",
-        "Reporte de ventas por cliente ordenado por folio ascendente.",
-        "Dirección y teléfono del cliente en las notas de venta y apartado.",
-        "Inventario: nueva consulta de Apartados con productos, variantes, cliente, folio y origen de las reservas, excluidas del disponible de Mercado Libre.",
-        "Créditos y abonos usan el mismo folio VTA de su venta; las referencias CRE anteriores siguen disponibles para búsqueda.",
-        "Recuperación de sincronización de Mercado Libre ante ResourceDeprecated en consultas por lote.",
-        "Devoluciones: existencias actuales sin filtro de fecha, retiros por garantía a proveedor seleccionado con vale de salida y acceso al registro de regreso mediante vale de entrada."
+        "Confandy 1.4.7 build 129",
+        "- Impresion de hojas con margen interior de seguridad de 5 mm y centrado proporcional.",
+        "- Escala del controlador fijada al 100%; el ajuste al area imprimible lo realiza la aplicacion.",
+        "- Conserva impresora configurada, orientacion automatica y tickets de 68/80 mm."
       ],
-      "published_at": "2026-11-13T19:27:38Z",
-      "installer_name": "confandy_android_1.4.6.apk",
-      "sha256": "dec66866854e597eb5dd2a5585a52eca71d78ef9c6601db7688dbfc5b7813afe"
+      "published_at": "2026-11-13T23:53:05Z",
+      "installer_name": "confandy_android_1.4.7.apk",
+      "sha256": "6485f42300914bfa198216131c001a42ddd89a0e4db1a217c6e275d2a7e28ba4"
     }
   }
 }
